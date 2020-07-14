@@ -376,7 +376,7 @@ Peli and Jackie stayed up all night talking about philosophy and made a transcri
 
 **P:** the basic move of the transcendental deduction is, i think, the exact ‘introspection is a very late-in-the-game concept, actually’ move that plays a huge role in e.g. sellars and wittgenstein 
 
-**P:** speaking of memoirs have you read Ray's yet
+**P:** speaking of memoirs have you read [Ray's](https://www.pseudopodium.org/ht-20200503.html#2020-05-03) yet?
 
 **J:** I have not, I've been deeply engaged in a literary hoax
 
