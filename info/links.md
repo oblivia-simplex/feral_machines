@@ -18,6 +18,7 @@
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
+* [Specular Anomalies](https://distort.jp/) -- Alex Chase
 * [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
