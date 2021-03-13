@@ -8,6 +8,8 @@ The hook, of course, is that it's the story of a cuck, but what does cuckoldry m
 
 Even -- _especially_ -- when they're a bit clownish, Jackie Ess takes her characters seriously. She gives Darryl all the room in the world to make a fool of himself, but she never sneers at him, never hides behind cynicism. And it's thanks to that that we're able to glimpse what he sees, for a moment. From start to finish, there's never any doubt that what Darryl's doing matters, that he's looking for something real, even if he can't put his finger on it, that he's digging for fire. 
 
+![The fool](../img/tarot-fool.jpg)
+
 Darryl's narration is reflective and searching, spoken by someone still in the thick of things, mulling over events just after they've happened -- typically offstage, at the beginning of the book, though we're hurled increasingly into the present as the action escalates. His voice is earnest, vulnerable and naïve, to the point, sometimes, of being a little embarrassing. It may seem to veer close to cringe comedy, at times, but the book has a way of remaining warm and scornless. And unlike cringe comedy, Darryl's humiliations invite us in. They disarm us. He might not always know what's going on, within or without, but we find ourselves trusting him. His meditative moments intensify the action, deepening its meaning and mystery. These are real stakes he's playing for. This isn't bumper bowling, as he says, somewhere. The questions he's asking are real. 
 
 "What connects my life to life?" Darryl often asks himself, for instance,
@@ -21,6 +23,8 @@ You hear echoes of this a passage throughout the book, from the rotary phone to 
 > When the water hits my neck, it’s like I don’t exist. How long was I in there? I felt feminine, almost. Very neutral and beautiful and clean. Like somehow Bill had loosened up a layer of dirt on me that was Don Juan and Clint Eastwood and everything else and now it comes right off under the water. What would it be like to be clean?
 
 Darryl is a character who will be living in your head for years. He'll be sitting there, quietly, in the corner, waving shyly now and then. The other characters in the books are ciphers, mostly, but memorable ones, and they do leave an impression. Clive, Bill, Mindy, Kit, Oothoon, Satori, Moonbeam, each of them feels intensely vivid when I list their name. Somebody once said something to me about Dickens' characters, and I think it applies here: "they might be flat, but they're vibrating extremely fast -- they're just _so much_ of what they are". The same can be said of _Darryl's_ supporting cast. 
+
+![contented cuckold](../img/contented-cuckold.png)
 
 This might not mean much to anyone who doesn't know her, and I'm pretty sure that everyone who does is probably already gearing up to read this book, if they haven't already, but _there's so much of Jackie in this book!_ And a lot of what makes Jackie such good company is what makes this book a good read, as well -- her sense of humour, her searching seriousness, and the brilliance that comes through in just about everything she touches.
 
