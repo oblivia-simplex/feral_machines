@@ -2,6 +2,8 @@
 
 Where do I even start with this book? I honestly don't think I've ever read anything funnier. Comedy, the kind that gets you laughing til your eyes water, the kind that gives you the hiccups, is a really difficult thing to do in a novel. I think I've only read a handful of books that really nail it. So many little things have to be right for it to work, and _Darryl_ delivers the whole kit and kaboodle.
 
+![Darryl cover](../img/darryl.jpg)
+
 The hook, of course, is that it's the story of a cuck, but what does cuckoldry mean for Darryl? "We cuckolds", he tells his friend, Oothoon,
 
 > are the only sexual orientation that's about the truth. Everybody else is about performance, pleasure, recognition. Is that why people seem to hate us so much lately? Maybe watching and listening are the bravest things a guy can do. Can you face your own inferiority? Can you watch yourself be replaced?
