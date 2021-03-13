@@ -146,12 +146,12 @@ title('If You\'re A Woman And You\'ve Felt Like This When You\'re Alone At Night
      tags([philosophy, transcendental, conversation])
     ],
 
-    [title('In the Rain and the Roar: On Darryl, by Jackie Ess'),
+    [title('Lost in the Rain and the Roar: On Darryl, by Jackie Ess'),
      author('Lucca Fraser'),
-     abstract('A partial review of a wonderful novel.'),
+     abstract('A partial review of Jackie Ess\'s debut novel.'),
      file('on_darryl.md'),
      date('2021-03-06'),
-     tags([literature, review, comedy, draft])
+     tags([literature, review, comedy, sex])
     ]
 
     %[title('A Single, Ill-placed Line'),
