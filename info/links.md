@@ -2,36 +2,27 @@
 
 ## Currently Active
 
-* [Antarctica Starts Here](https://drwho.virtadpt.net/) -- The Doctor
-* [C4SS](https://c4ss.org) -- Center for a Stateless Society
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
-* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
-* [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
-* [The Equalizing Jokebook](https://aaronnovick.com) -- Aaron Novick
+* [Yellow Dusk](https://yellowdus.cc) -- Aaron Novick
 * [Human Iterations](http://humaniterations.net) -- William Gillis
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
 * [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
-* [Meaningness](https://meaningness.com) -- David Chapman
-* [Naught Thought](https://naughtthought.wordpress.com/) -- Ben Woodard
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
-* [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
 * [Specular Anomalies](https://distort.jp/) -- Alex Chase
-* [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
-* [Totalitarian Collectivism](https://totalitariancollectivist.wordpress.com/) - Cockydoody
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
 * [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
-* [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
-* [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
-* [Xenogothic](https://xenogothic.com) 
 
 ## Dormant
 
+* [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
+* [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
+* [The Equalizing Jokebook](https://aaronnovick.com) -- Aaron Novick
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
   its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
