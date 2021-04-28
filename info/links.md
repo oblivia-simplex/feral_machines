@@ -1,22 +1,22 @@
-# Fellow Blogs (in Alphabetical Order)
+# Fellow Blogs 
 
 ## Currently Active
 
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
-* [Yellow Dusk](https://yellowdus.cc) -- Aaron Novick
 * [Human Iterations](http://humaniterations.net) -- William Gillis
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
 * [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
+* [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 * [Specular Anomalies](https://distort.jp/) -- Alex Chase
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
-* [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
+* [Yellow Dusk](https://yellowdus.cc) -- Aaron Novick
 
 ## Dormant
 
