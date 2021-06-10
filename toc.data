@@ -93,7 +93,7 @@
     [
      title('Spanish, Ontario'),
      file('anemone.md'),
-     abstract('A revision, or something closer to a rewrite, of a poem I\'d published in 2014 in The Electric Encyclopedia of Experimental Literature (EEEL), now sadly defunct, under the title "If You\'re a Woman and You Feel Like This When You\'re Alone at Night, It\'s not Just You". The title came from a clickbait poetry exercise suggested somewhere on surrealist poetry tumblr. A fun scene. Seemed funny at the time. (The original can still be retrieved from https://web.archive.org/web/20140714130912/http://theneweryork.com/if-youre-a-woman-and-youve-felt-like-this-when-youre-alone-at-night-its-not-just-you-olivia-fraser/ )'),
+     abstract('A revision, or something closer to a rewrite, of a poem I\'d published in 2014 in The Electric Encyclopedia of Experimental Literature (EEEL), now sadly defunct, under the title "If You\'re a Woman and You Feel Like This When You\'re Alone at Night, It\'s not Just You". The title came from a clickbait poetry exercise suggested somewhere on surrealist poetry tumblr. A fun scene. Seemed funny at the time. (The original can still be retrieved <a href="https://web.archive.org/web/20140714130912/http://theneweryork.com/if-youre-a-woman-and-youve-felt-like-this-when-youre-alone-at-night-its-not-just-you-olivia-fraser/">HERE</a>.)'),
      author('Lucca Fraser'),
      date('2021-06-10'),
      tags([poetry])],
