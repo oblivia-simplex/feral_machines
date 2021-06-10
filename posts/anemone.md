@@ -1,24 +1,6 @@
-I remembered the anemone: its name, the way that its syllables decay in your
-mouth. They're not like the seeds you found in a passerine's beak, the beak of
-a nuthatch, for example, pickled and stored in a jar that weeps and weeps
-through the label, that sat on a shelf among rows and rows of similar vessels,
-each bearing birds or actors to term. The best I can do is delay the exact
-moment it slips and is smashed into pieces on asphalt. The jar's pretty
-heavy, and my hands are incoherent.
 
-The girl at the desk must've thought we're a couple, so she comped us the double
-at no extra cost. I named her Olivia and crawled in her beak, where I curled
-up to muffle the syllables. She was a bird, or a mollusc, but I can't quite
-remember. I do remember pressing my flesh into curls, which were boneless or
-brittle, but I can't remember. Someone must remember pushing against the
-lid from below, alveoli locked by the rubber and the ring.  My hands, at this 
-time, were still weeping, so the glass and the metal were wet. Back in
-Spanish, Ontario, just off of Lake Huron, at the lot where they comped us the
-double.
+I considered the anemone and its syllables, and the way they decayed in my mouth. They're not bird seeds. It's not a passerine's beak. It's not a nuthatch, sealed in a jar that weeps with humidity, a jar that even now I'm lifting from the shelf, but: It'll fall. It'll slip and it will smash into pieces, eventually. The jar's heavy. My hands? Incoherent at best. The asphalt'll off-gas and you can smell it, you can smell it from the desk at the motel. We're in Spanish, Ontario. There's a lady who looks like my grandfather's girlfriend. She comped us the double and ignored the anemone.
 
-I'm able to sleep without falling. My feet end in wires that twist around
-branches and keep me in place until New Year's. But you know sleep is coming,
-anemone. The first day you bled you were certain. The first day you braided
-your hair. Sleep is not a jar. Sleep is the enemy's well-threaded ring.
+I gave her a name and I crawled in her beak. She was a bird or invertebrate, but I can’t remember. I do remember pressing my flesh into curls. They were brittle or boneless, but I can’t remember. I pressed on the lid from below. I know I remember the lid. It was rubberized and ring-locked, the kind you find on a mason jar, you know the kind. My hands wept. The glass wept with humility. Lake Huron, from the parking lot, wept. They comped us the double and wept.
 
-
+I'm able to sleep without falling. My feet end in wires that twist around branches and keep me in place until New Year’s. You know sleep is coming, anemone. The first day you bled you were certain. The first time you braided your hair. Sleep is not a jar. Sleep is the enemy’s well-threaded ring. 
