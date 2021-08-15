@@ -1,0 +1,57 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>LORD</title>
+    <link rel="stylesheet" href="/css/stylesheet.css" type="text/css">
+      
+     <!-- <style>
+   
+    </style> -->
+    <!-- TODO: move all of this css markup into a stylesheet. -->
+  </head>
+  <body>
+
+    <div class="container" style="overflow: hidden">
+
+      <!-- div id="nav" role="navigation" style="float: left; width: 20%">
+        <h1>navigation</h1>
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/info/links.md">links</a></li>
+          <li><a href="/info/about.md">about</a></li>
+        </ul>
+      </div -->
+
+      <div id="main" style="float: left; width: 70%; font-size:115%;">
+
+        <h1>Legend of the Red Dragon</h1>
+
+        <p>Courtesy
+        of <a href="http://lord.stabs.org">lord.stabs.org</a>.</p>
+        
+        
+        <div id="fTelnetContainer"></div>
+        <script src="//embed.ftelnet.ca/js/ftelnet-loader.js"></script>
+        <script>
+          fTelnet.Hostname = "lord.stabs.org";
+          fTelnet.Port = 23;
+          fTelnet.ProxyHostname = "proxy-us-ga.ftelnet.ca";
+          fTelnet.ProxyPort = 80;
+          fTelnet.ProxyPortSecure = 443;
+          fTelnet.ConnectionType = "telnet";
+          fTelnet.Emulation = "ansi-bbs";
+          fTelnet.Init();
+        </script>
+
+
+
+
+        <!-- put content here -->
+
+      </div>
+    </div>
+  </body>
+</html>

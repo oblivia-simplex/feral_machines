@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /tags/
+
+User-agent: *
+Disallow: /data/
+
+Sitemap: http://feralmachin.es/sitemap

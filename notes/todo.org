@@ -1,0 +1,22 @@
+* Posts
+** TODO Secrets of the Ooze 
+[[../posts/urschleim.md]]
+
+** TODO The Lure of Triviality
+[[../posts/political_tautologies.md]]
+
+*** current status: mostly finished, needs polishing
+
+
+** TODO On the Office and Metacomedy
+[[../posts/the_office.md]]
+
+** TODO Virtue Ethics and Machine Learning
+[[../posts/virtue_ethics+machine_learning.md]]
+
+** TODO Weird Machines and Eerie Algorithms
+[[../posts/weird_and_eerie_machines]]
+
+** TODO Xenofeminism is a Naturalism: Reply to Konior
+[[../posts/xf_on_nature_and_artifice.md]]
+

@@ -1,0 +1,162 @@
+[
+
+    [file('hello.md'),
+     title('Hello, World'),
+     author(me),
+     date('2019-02-23'),
+     tags([introduction, blogging, prolog, weird_machines, evolution]),
+     abstract('An introduction to the blog.')],
+    
+    [file('spirit_is_a_drider.md'),
+     title('Spirit is a Drider'),
+     author('Peli Grietzer & Lucca Fraser'),
+     tags(['d&d', hegel, psychoanalysis, shitposting]),
+     abstract('On the subject of Elves.'),
+     date('2019-02-24')], % guessing
+
+    %% [file('political_tautologies.md'),
+    %%  title('The Lure of Triviality'),
+    %%  abstract('What role do truisms and tautologies play
+    %%            in political rhetoric?'),
+    %%  date('2019-03-03'),
+    %%  tags([sophistry, populism, terfs, draft])],
+    %% [file('evolution_and_weird_machines.md'),
+    %%  title('Evolution and Weird Machines'),
+    %%  abstract('Why are evolutionary techniques well-suited to the
+    %%            exploration of weird machines?'),
+    %%  tags([genetic_programming, weird_machines, exploitation, draft])],
+
+    %% [file('virtue_ethics+machine_learning.md'),
+    %%  title('Virtue Ethics as Machine Learning'),
+    %%  abstract('The regions of our moral landscape that incline us
+    %%            towards virtue ethics, rather than deontology or
+    %%            strict consequentialism, as a means of navigation, share
+    %%            features with those regions of problem space that
+    %%            incline us towards the use of machine learning, rather
+    %%            than classical algorithms.'),
+    %%  tags([machine_learning, virtue, draft])],
+
+    [file('parasitic_disengagement.md'),
+     title('Disengagement and Drift'),
+     abstract('On coevolution and parasitism in genetic programming and culture.'),
+     tags([genetic_programming, coevolution, memetics, academia]),
+     date('2019-02-27')],
+
+    [file('evo_vx.md'),
+     title('Natural Selection Considered Harmful'),
+     abstract('A brief historical overview of the relatively few instances where
+               computer virus design and evolutionary computation have intersected.'),
+     date('2019-03-02'),
+     tags([genetic_programming, viruses, history, roper])],
+
+    [file('convenient_abstractions.md'),
+     title('On Ethically Convenient Abstractions'),
+     abstract('Brief remark on a common sophism.'),
+     date('2019-03-03'),
+     tags([ethics, sophistry, abstraction])],
+
+    %% [file('xf_on_nature_and_artifice.md'),
+    %%  title('Xenofeminism is a Naturalism: Reply to Konior'),
+    %%  abstract('A response to a criticism of the Xenofeminist Manifesto in
+    %%            "Alien Aesthetics: Xenofeminism and Nonhuman Animals",
+    %%            and "Automate the Womb", by Bogna Konior.'),
+    %%  tags([xenofeminism, naturalism, ontology, ethics, draft])],
+
+    [file('urschleim.md'),
+     title('Secrets of the Ooze'),
+     abstract('A reply to Dom at The Last Instance and Adam at Conflated
+               Automatons, on the subject of "ontological slime" in computation,
+               with much yeggogological meandering.'),
+     date('2019-03-09'),
+     tags([weird_machines, genetic_programming, ontology, 
+           the_last_instance, conflated_automatons, abstraction, roper])],
+
+    [file('paring_knife.md'),
+     title('Paring Knife'),
+     abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
+     tags([poetry])],
+
+    [file('LC_in_Bratislava.md'),
+     title('A Question of Will: Laboria Cuboniks in Bratislava'),
+     abstract('Transcript of a talk we gave in Bratislava, in 2017.'),
+     author('Laboria Cuboniks'),
+     date('2019-04-10'),
+     tags([xenofeminism, memetics, ethics])],
+
+    [title('Pale River'),
+     file('pale_river.md'),
+     abstract('A new poem.'),
+     author('Lucca Fraser'),
+     date('2019-04-15'),
+     tags([poetry])],
+
+    [
+     title('Spanish, Ontario'),
+     file('anemone.md'),
+     abstract('A revision, or something closer to a rewrite, of a poem I\'d published in 2014 in The Electric Encyclopedia of Experimental Literature (EEEL), now sadly defunct, under the title "If You\'re a Woman and You Feel Like This When You\'re Alone at Night, It\'s not Just You". The title came from a clickbait poetry exercise suggested somewhere on surrealist poetry tumblr. A fun scene. Seemed funny at the time. (The original can still be retrieved from https://web.archive.org/web/20140714130912/http://theneweryork.com/if-youre-a-woman-and-youve-felt-like-this-when-youre-alone-at-night-its-not-just-you-olivia-fraser/, thanks to the Internet Archive.)'),
+     author('Lucca Fraser'),
+     date('2021-06-10'),
+     tags([poetry])],
+     
+    [title('Whore for Capitalism: On Publishing a Book'),
+     file('lerman-whore_for_capitalism.md'),
+     abstract('\'You know what? Fuck all the journals, all the lit mags, all the respectable outlets. They keep telling me (re: this piece about the industry) things like "We\'re tightening up our social media platforms, so we\'re focusing on pieces that we feel will be highly consumable via the platforms. This might be too dark for us at the moment." Or "Would you consider re-working so the tone is jauntier?" Say I make it jaunty and friendly and social-media-ready and a couple respectable people at a couple respectable venues acknowledge my existence for two seconds and I maybe sell a few extra books? That can\'t be worth it. I just can\'t see how it\'s worth it. The more I think about it, the more it should be on a blog, open to everyone and without all the extra bullshit.\' And so, a guest post, by Lindsay Lerman.'),
+     date('2019-07-22'),
+     tags([feminism, writing, guest]),
+     author('Lindsay Lerman')],
+
+    [title('Feminisms of the Future, Now: Rethinking Technofeminism and the Manifesto Form'),
+     author('Lucca Fraser interviewed by Esme Hogeveen'),
+     abstract('Esme Hogeveen interviewed me for Issue 132 of C magazine, back in 2016, on
+     the the Xenofeminist Manifesto, and related topics.'),
+     file('c_interview.md'),
+     tags([xenofeminism, interview])
+    ],
+
+    [title('Defrag Commit Zero'),
+     author('Lucca Fraser'),
+     abstract('A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my ~/src/feral_machines/content/posts/scratch directory. This quickly turned into a sprawling, incoherent omnibus post.'),
+     file('defrag-0.md'),
+     date('2019-07-25'),
+     tags([misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
+    ],
+
+    [title('Three New Bytebeat Tunes'),
+     author('Lucca Fraser'),
+     abstract('Three new bytebeat tunes.'),
+     file('bytebeat.md'),
+     date('2019-12-12'),
+     tags([music, bytebeat])
+    ],
+
+    [title('XF Seminar Postmortem'),
+     author('Lucca Fraser'),
+     abstract('Some notes following up on a seminar in McKenzie\'s "Trans Theory as Gender Theory" class, and reflections on the Xenofeminist Manifesto, about 5 years later.'),
+     file('reflections_on_xf.md'),
+     date('2020-05-03'),
+     tags([xenofeminism])
+    ],
+
+    [title('Transcendental Philosophy Bull Session, with Jackie Ess & Peli Grietzer'),
+     author('Peli Grietzer & Jackie Ess'),
+     abstract('Peli and Jackie stayed up all night, talking about transcendental philosophy. This is the transcript.'),
+     file('peli_and_jackie_transcendental.md'),
+     date('2020-06-13'),
+     tags([philosophy, transcendental, conversation])
+    ],
+
+    [title('Lost in the Rain and the Roar: On Darryl, by Jackie Ess'),
+     author('Lucca Fraser'),
+     abstract('A partial review of Jackie Ess\'s debut novel.'),
+     file('on_darryl.md'),
+     date('2021-03-06'),
+     tags([literature, review, comedy, sex])
+    ]
+
+    %[title('A Single, Ill-placed Line'),
+    % author('Lucca Fraser'),
+    % abstract(''),
+    % file('beauty_and_fragility.md'),
+    % tags([aesthetics, feminism])
+    %]
+].
