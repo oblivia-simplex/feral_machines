@@ -15,6 +15,6 @@ domain('feralmachin.es').
 email('feral.machines@bastardi.net').
 abstract('yeggogological meditations').
 %abstract('what are the roots that clutch, what branches grow?').
-repo('https://github.com/oblivia-simplex/feral_machines').
+repo('git@feralmachin.es:~/feral_machines.git')
 port(9697). 
 timezone(4).
