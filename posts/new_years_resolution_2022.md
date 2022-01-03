@@ -1,7 +1,7 @@
 ---
 title: "New Year's Resolution, 2022"
 author: Lucca Fraser
-date: 2021-01-01
+date: 2022-01-01
 tags: [blogging]
 abstract: "Ringing in the new year with a resolution to post on a regular basis, and, in particular, to start posting short fiction."
 ---
