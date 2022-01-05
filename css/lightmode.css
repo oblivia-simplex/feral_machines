@@ -234,7 +234,7 @@ blockquote {
 code {
     font-size: 100%;
     display: block;
-    background-color: #222222;
+    background-color: var(--forecolor);
     padding-left: 2em;
     padding-right: 2em;
     padding-top: 2em;
@@ -264,7 +264,7 @@ code {
     code {
         font-size: 80%;
         display: block;
-        background-color: darkgray;
+        background-color: var(--forecolor);
         padding-left: 1em;
         padding-right: 1em;
         padding-top: 1em;
