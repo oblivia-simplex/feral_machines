@@ -211,7 +211,7 @@ blockquote {
     border-color: #8d8e8c;
 }
 
-code {
+pre {
     font-size: 100%;
     display: block;
     background-color: darkgray;
@@ -223,7 +223,10 @@ code {
     counter-reset: line;
     font-weight: bold;
     font-family: Courier, monospace;
+}
 
+code {
+  font-family: Mono;
 }
 
 
@@ -244,7 +247,7 @@ code {
         width: 94%;
         color: var(--forecolor);
     }
-    code {
+    pre {
         font-size: 80%;
         display: block;
         background-color: darkgray;
@@ -255,7 +258,9 @@ code {
         color: #00ff85;
         counter-reset: line;
         font-weight: bold;
-
+    }
+    code {
+      font-family: Mono;
     }
 
 }
