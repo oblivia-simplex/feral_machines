@@ -226,6 +226,16 @@ code {
 
 }
 
+
+.dirindex {
+    width: 85vw; margin: 0 auto;
+    overflow: hidden;
+    font-family: Mono;
+    line-height: 175%
+}
+
+
+
 @media only screen and (max-width: 1000px) {
     #main {
         font-size: 110%;
