@@ -22,8 +22,8 @@
 }
 
 body {
-    color: --forecolor;
-    background-color: --backcolor;
+    color: var(--forecolor);
+    background-color: var(--backcolor);
 }
 
 a {
@@ -33,12 +33,12 @@ a {
 }
 
 a:hover {
-    color: --hovercolor;
+    color: var(--hovercolor);
     text-decoration: none;
 }
 
 a.top {
-    color: --navcolor;
+    color: var(--navcolor);
     font-weight: normal;
 }
 
@@ -56,7 +56,7 @@ pre {
     width: 85vw;
     margin: 0 auto;
     overflow: hidden;
-    color: --forecolor;
+    color: var(--forecolor);
 }
 
 h1 {
@@ -134,14 +134,14 @@ div.toc {
 
 textarea {
     width: 80%;
-    color: --forecolor;
+    color: var(--forecolor);
     font-family: Gar;
-    background-color: --backcolor;
+    background-color: var(--backcolor);
 }
 
 label {
     font-family: Courier;
-    color: --forecolor;
+    color: var(--forecolor);
 }
 
 .toc_entry {
@@ -227,7 +227,7 @@ code {
         margin-left: 3%;
         margin-right: 3%;
         width: 94%;
-        color: --forecolor;
+        color: var(--forecolor);
     }
     code {
         font-size: 80%;
