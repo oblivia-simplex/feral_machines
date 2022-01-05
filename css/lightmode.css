@@ -10,7 +10,8 @@
 
 @font-face {
     font-family: "Mono";
-    src: url("/css/fonts/Hermit-medium.otf");
+    /* src: url("/css/fonts/Hermit-medium.otf"); */
+    src: url("/css/fonts/lmmonoprop10-regular.otf");
 }
 
 /*
