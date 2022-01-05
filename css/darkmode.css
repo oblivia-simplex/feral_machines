@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: "Mono";
-  src: url("/css/fonts/Hermit-Medium.otf");
+  src: url("/css/fonts/lmmonoprop10-regular.otf");
 }
 
 :root {
@@ -82,7 +82,7 @@ h3 {
     width: 74%;
     margin-left: 12%;
     margin-right: 12%;
-    font-size: 120%;
+    font-size: 140%;
     font-family: Mono;
     line-height: 150%;
     font-variant-ligatures: none;
