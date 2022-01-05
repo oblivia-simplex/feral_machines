@@ -74,6 +74,9 @@ h3 {
     display: block;
 }
 
+.post {
+  font-family: Gar;
+}
 
 li.toc_title {
     font-weight: normal;
@@ -126,7 +129,7 @@ input {
 textarea {
     width: 80%;
     color: #fdfefc;
-    font-family: Courier;
+    font-family: Gar;
     background-color: #444042;
 }
 
@@ -211,6 +214,7 @@ code {
     font-family: Courier, monospace;
 
 }
+
 @media only screen and (max-width: 1000px) {
     #main {
         font-size: 110%;
