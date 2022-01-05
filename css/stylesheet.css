@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Gar";
+    src: url("/css/fonts/static/EBGaramond-Bold.ttf");
+}
+
 * {
     box-sizing: border-box;
 }
