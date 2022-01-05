@@ -31,6 +31,8 @@
   --quietcolor:dimgray;
   --bordercolor:#6d6e6c;
   --quotecolor:#242022;
+
+  --marginwidth:25%;
 }
 
 
@@ -70,12 +72,6 @@ pre {
     font-size: 130%;
 }
 
-.container {
-    width: 85vw;
-    margin: 0 auto;
-    overflow: hidden;
-    color: var(--forecolor);
-}
 
 h1 {
     font-family: "GarBo", Garamond, Georgia, serif;
@@ -92,15 +88,17 @@ h3 {
 }
 
 #main {
-    float: none;
-    width: 74%;
-    margin-left: 12%;
-    margin-right: 12%;
-    font-size: 120%;
+    float: left;
+    font-size: 150%;
     font-family: Gar;
     line-height: 150%;
     font-variant-ligatures: none;
+    color: var(--forecolor);
+
     display: block;
+    margin-left: var(--marginwidth);
+    margin-right: var(--marginwidth);
+    overflow: wrap;
 }
 
 .post {
@@ -195,6 +193,7 @@ img {
     margin-right: auto;
     margin-left: auto;
     display: block;
+    background-color: var(--forecolor); /* just because most of my transparent images are light-on-dark */
 }
 
 .wordcount {
@@ -203,10 +202,10 @@ img {
 }
 
 blockquote {
-    border-left: 8px solid #3d3e3c; 
+    /*border-left: 2px solid var(--quietcolor);*/ 
     margin: 1.5em 10px;
     padding: 0.5em 10px;
-    color: var(--quotecolor);
+    color: var(--quietcolor);
 }
 
 .ascii_art {
@@ -253,12 +252,11 @@ code {
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1200px) {
     #main {
-        font-size: 110%;
-        margin-left: 3%;
-        margin-right: 3%;
-        width: 94%;
+        font-size: 120%;
+        margin-left: 13%;
+        margin-right: 13%;
         color: var(--forecolor);
     }
     code {

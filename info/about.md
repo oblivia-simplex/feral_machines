@@ -1,3 +1,10 @@
+---
+author: Lucca Fraser
+title: "About Feral Machines"
+date: 2019-02-02
+abstract: "Some information about the blog."
+---
+
 # About All This
 
 [Feral Machines](http://feralmachin.es), a blog that stumbles erratically
