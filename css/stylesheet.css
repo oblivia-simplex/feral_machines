@@ -8,12 +8,20 @@
     src: url("/css/fonts/static/EBGaramond-Medium.ttf");
 }
 
+/*
 :root {
   --forecolor:#fdfefc;
   --backcolor:#242022;
   --hovercolor:hotpink;
   --navcolor:papayawhip;
+}
+*/
 
+:root {
+  --backcolor:#fdfefc;
+  --forecolor:#242022;
+  --hovercolor:hotpink;
+  --navcolor:papayawhip;
 }
 
 
