@@ -1,8 +1,7 @@
 ---
-title: The Mabinogion as Read by Martin Geeson
-author: Lucca Fraser
+title: The Mabinogion, as Read by Martin Geeson
 date: 2022-01-06
-tags: [draft, literature]
+tags: [draft, literature, folklore, medieval]
 abstract: "On the pleasures, in particular, of Martin Geeson's LibriVox recording of Charlotte Guest's translation of these medieval Welsh tales."
 ---
 
