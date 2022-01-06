@@ -22,5 +22,5 @@ And here's the brand new light mode:
 
 ![a peek at the brand new light mode](../img/lightmode.jpg)
 
-I don't think there's anyone else out there blogging on [P'log](https://github.com/oblivia-simplex/plog), yet, but I've included both stylesheets in the contents.example directory, for general use.
+I don't think there's anyone else out there blogging on [P'log](https://github.com/oblivia-simplex/plog), yet, but I've included both stylesheets in the `contents.example/` directory, for general use.
 
