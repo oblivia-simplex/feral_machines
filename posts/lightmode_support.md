@@ -14,13 +14,13 @@ I still prefer this combination for terminal work and writing code, but (though 
 
 Anyway, after a couple hours of tinkering around with the CSS, I set up both [dark](/css/darkmode.css) and [light](/css/lightmode.css) mode stylesheets for this site, and then configured the [main stylesheet](/css/stylesheet.css) to select the CSS on the basis of the user's system preferences. 
 
-Here's a peek at the recently fine-tuned dark mode (shown on a portrait-mode screen):
+Here's a peek at the recently fine-tuned dark mode:
 
 ![A peek at the slightly-tweaked dark mode](../img/darkmode.jpg)
 
-And here's the brand new light mode (on a landscape-mode screen):
+And here's the brand new light mode:
 
 ![a peek at the brand new light mode](../img/lightmode.jpg)
 
-I don't think there's anyone else out there blogging on [P'Log](https://github.com/oblivia-simplex/plog), yet, but I've included both stylesheets in the contents.example directory, for general use.
+I don't think there's anyone else out there blogging on [P'log](https://github.com/oblivia-simplex/plog), yet, but I've included both stylesheets in the contents.example directory, for general use.
 
