@@ -6,7 +6,7 @@ tags: [plog]
 abstract: "P'log now supports light mode and dark mode, and will select the stylesheet on the basis of system preferences."
 ---
 
-For a long time I used dark themes almost exclusively. The habit probably dates back to my childhood. My family's first computer was an old XT, with an amber ([P3 phosphor](https://en.wikipedia.org/wiki/Phosphor#Standard_phosphor_types)) monitor, and this more or less fixed my aesthetic sense of what a computer screen should look like. Light monospace type on a dark background. The [stylesheet](/css/darkmode.css) I first wrote for this blog reflects those preferences.
+For a long time I used dark themes almost exclusively. The habit probably dates back to my childhood. My family's first computer was an old XT, with an amber ([P3 phosphor](https://en.wikipedia.org/wiki/Phosphor#Standard_phosphor_types)) monitor, and this more or less fixed my aesthetic sense of what a computer screen should look like: light monospace type on a dark background. The [stylesheet](/css/darkmode.css) I first wrote for this blog reflects those preferences.
 
 ![An amber phosphor monitor on an old XT computer](../img/old-computer-amber-monitor.jpg)
 
