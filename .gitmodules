@@ -1,0 +1,3 @@
+[submodule "plog"]
+	path = plog
+	url = git@feralmachin.es:~/plog.git
