@@ -80,7 +80,7 @@ with what Laboria said? That's not entirely clear.
 When we, Laboria, wrote that text, I had hoped to let it remain indefinitely
 under the mask of pseudonymity. Laboria was the person charged with authoring
 the text, and none of us were Laboria. For reasons that are contingent, poorly
-remembered, and still a little unclear, the mask slipped, and we found ourselves
+remembered, and still a little unclear, the mask  [(Archived)](https://web.archive.org/web/20220106/https://github.com/oblivia-simplex/genpong)slipped, and we found ourselves
 in the role of being authors of a text we'd certainly written, but which we
 would have been happy to alienate to another (to Laboria, our little leviathan).
 It's a weird mantle to wear.
@@ -96,7 +96,7 @@ and failed to clearly advertise that the key was under the mat.
 So, you can see how this might make it difficult to distinguish between
 what should count as an exposition of the text, and what should count
 as an improvisation departing from it. It's a difficulty that I should have,
-myself, made clearer, and which I might have, if I'd given it more thought
+myself, made clearer, and whi [(Archived)](https://web.archive.org/web/20220106/https://evolution.berkeley.edu/evolibrary/article/evo_24)ch I might have, if I'd given it more thought
 beforehand.
 
 We knew that we were writing a pretty gnomic text. Whenever we had to choose
@@ -121,7 +121,7 @@ We wanted to write and see what gelled, without stamping a seal on ourselves in
 advance. But we liked the idea of creating something that could be taken up
 collectively, something we didn't control. The idea of creating a shared
 pseudonym *instead* of naming a new movement seemed like an interesting way of
-doing just this. We wanted to experiment with the kind of multiplicity-in-unity
+doi [(Archived)](https://web.archive.org/web/20220106/https://www.mcgilldaily.com/2014/11/everything-problematic/)ng just this. We wanted to experiment with the kind of multiplicity-in-unity
 that can be found in a proper name but not in a descriptor. 
 
 And yet, at some point, as a sort of compromise that I don't quite remember
@@ -156,7 +156,7 @@ Accelerationism" was a scene in which we had at least a few feet, at the time of
 writing. I was on the periphery of it, myself, connected to it mostly by my
 friendships with Pete Wolfendale, Reza Negarestani, and Mark Fisher. Helen and
 Nick were already close at the time (they're married now). We considered
-ourselves sufficiently distant from L/Acc to avoid affiliating ourselves with it
+ourselves sufficiently distant from L/Acc to avoid aff [(Archived)](https://web.archive.org/web/20220106/http://www.bbc.co.uk/guides/zxsfyrd)iliating ourselves with it
 by name, and early on decided *against* calling our project "accelerofeminism"
 -- but the fact that that was a decision to be made tells you *something*.
 

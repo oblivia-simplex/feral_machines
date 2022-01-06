@@ -6,7 +6,7 @@ tags: [philosophy, transcendental, conversation, peli]
 abstract: Peli and Jackie stayed up all night, talking about transcendental philosophy. This is the transcript.
 ---
 
-![two bulls](/img/two_bulls.jpeg)
+![two bulls](../img/two_bulls.jpeg)
 
 Peli and Jackie stayed up all night talking about philosophy and made a transcript.
 

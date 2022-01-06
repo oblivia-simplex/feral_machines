@@ -39,4 +39,4 @@ This might not mean much to anyone who doesn't know her, and I'm pretty sure tha
 So, go and read this book. It's going to absolutely delight you. You'll probably tear through it in a day or two, and you'll fight yourself to put it down. You'll be late for meetings. When you're in the middle of something else entirely, you'll think of some scene or another and start giggling. You'll guffaw. This book will remind you what novels can do. And when you go back for seconds, it'll be even better than you remembered, like last night's soup.
 
 
-_Darryl_ hits the bookstore shelves in May. You can pre-order a copy  from CLASH Books, [HERE](https://www.clashbooks.com/new-products-2/jackie-ess-darryl-preorder). You can, and you should.
+_Darryl_ hits the bookstore shelves in May. You can pre-order a copy  from CLASH Books, [HERE](https://www.clashbooks.com/new-products-2/jackie-ess-darryl-preorder) [(Archived)](https://web.archive.org/web/20220106/https://www.clashbooks.com/new-products-2/jackie-ess-darryl-preorder). You can, and you should.
