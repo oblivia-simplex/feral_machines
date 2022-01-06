@@ -13,11 +13,17 @@
   src: url("/css/fonts/lmmonoprop10-regular.otf");
 }
 
+@font-face {
+  font-family: "Code";
+  src: url("/css/fonts/Hermit-medium.otf");
+}
+
 :root {
   --forecolor:#fdfefc;
   --backcolor:#242022;
   --hovercolor:hotpink;
   --navcolor:papayawhip;
+  --codecolor:#00ff85;
 }
 
 
@@ -52,10 +58,6 @@ a.top:hover {
     text-decoration: none;
 }
 
-pre {
-    line-height: 100%
-    font-size: 130%;
-}
 
 .container {
     width: 85vw;
@@ -212,21 +214,22 @@ blockquote {
 }
 
 pre {
-    font-size: 100%;
+    font-size: 120%;
     display: block;
-    background-color: darkgray;
+    background-color: black;
     padding-left: 2em;
     padding-right: 2em;
     padding-top: 2em;
     padding-bottom: 2em;
-    color: #00ff85;
+    color: var(--codecolor);
     counter-reset: line;
     font-weight: bold;
-    font-family: Courier, monospace;
 }
 
 code {
-  font-family: Mono;
+  font-family: Code;
+  font-weight: bold;
+  font-size: 80%;
 }
 
 
@@ -250,12 +253,12 @@ code {
     pre {
         font-size: 80%;
         display: block;
-        background-color: darkgray;
+        background-color: black;
         padding-left: 1em;
         padding-right: 1em;
         padding-top: 1em;
         padding-bottom: 1em;
-        color: #00ff85;
+        color: var(--codecolor);
         counter-reset: line;
         font-weight: bold;
     }

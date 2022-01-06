@@ -7,25 +7,8 @@ abstract: "Some information about the blog."
 
 # About All This
 
-[Feral Machines](http://feralmachin.es), a blog that stumbles erratically
-between computer science, philosophy, and utter confabulation, and 
-[P'log](https://github.com/oblivia-simplex/plog), a
-blogging server, implemented in Prolog, are both written and maintained by Lucca
-Fraser, who lives in Halifax, Nova Scotia.
+[Feral Machines](http://feralmachin.es), the blog you're visiting, and [P'log](https://github.com/oblivia-simplex/plog), the blogging server software that it runs on, are both written and maintained by me, Lucca Fraser. You can reach me by email, and, if you like, submit comments to the blog, at `feral` dot `machines` at `bastardi` dot `net`.
 
-You can reach her by email, and, if you like, submit comments to the blog,
-at (sorry for the awful formatting; I'm trying to fool the spambots):
+There isn't much of a theme to this blog. The texts here, so far, range over philosophy, computer science, poetry, fiction, casual musings, music, jokes. I don't have any clear idea of who the audience for all this could be.
 
-**f e r a l** 
-
-dot
-
-**m a c h i n e s** 
-
-at 
-
-**b a s t a r d i** 
-
-dot
-
-**n e t**.
+As of [January, 2022](new_years_resolution_2022.md), you can expect to start seeing some short fiction, here, on a monthly basis. I'm holding myself to it. 

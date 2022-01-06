@@ -68,11 +68,6 @@ a.top:hover {
     text-decoration: none;
 }
 
-pre {
-    line-height: 100%
-    font-size: 130%;
-}
-
 
 h1 {
     font-family: "GarBo", Garamond, Georgia, serif;
@@ -232,7 +227,7 @@ blockquote {
 }
 
 pre {
-    font-size: 100%;
+    font-size: 120%;
     display: block;
     background-color: var(--forecolor);
     padding-left: 2em;
@@ -247,6 +242,7 @@ pre {
 
 code {
   font-family: Mono;
+  font-size: 80%;
 }
 
 
