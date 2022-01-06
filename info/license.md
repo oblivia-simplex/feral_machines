@@ -1,3 +1,11 @@
+---
+title: "GNU General Public License, v.3"
+date: 2007-06-29
+author: "Free Software Foundation, Inc."
+abstract: "The GNU GPL version 3, in its entirety."
+tags: [info, license, gnu]
+---
+
 ### GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
