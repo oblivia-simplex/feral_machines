@@ -10,7 +10,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 title('Feral Machines').
-admin('Lucca Fraser').
+admin('Olivia Lucca Fraser').
 domain('feralmachin.es').
 email('feral.machines@bastardi.net').
 abstract('yeggogological meditations').
