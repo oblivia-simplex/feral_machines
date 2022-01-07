@@ -1,6 +1,6 @@
 ---
 title: foobar
-author: Lucca Fraser
+author: Olivia Olivia Lucca Fraser
 date: 2022-01-05
 tags: [foo, draft]
 abstract: Abstract goes here.

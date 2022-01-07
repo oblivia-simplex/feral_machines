@@ -1,6 +1,6 @@
 ---
 title: XF Seminar Postmortem
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2020-05-03
 tags: [xenofeminism, virtue, memetics, sex]
 abstract: Some notes following up on a seminar in McKenzie's "Trans Theory as Gender Theory" class, and reflections on the Xenofeminist Manifesto, about 5 years later.

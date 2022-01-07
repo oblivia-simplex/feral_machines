@@ -1,6 +1,6 @@
 ---
 title: 'Feminisms of the Future, Now: Rethinking Technofeminism and the Manifesto Form'
-author: Lucca Fraser interviewed by Esme Hogeveen
+author: Olivia Olivia Lucca Fraser interviewed by Esme Hogeveen
 date: 2017-01-01
 abstract: Esme Hogeveen interviewed me for Issue 132 of C magazine, back in 2016, on the Xenofeminist Manifesto and related topics.
 tags: 
@@ -30,7 +30,7 @@ feminisms, but also the extent to which technology may constitute an
 interdisciplinary means for revising, and ideally revitalizing, discourse about
 gendered identity, labour and bodily experience.
 
-This summer, I corresponded with Lucca Fraser, Halifax-based theorist, scholar
+This summer, I corresponded with Olivia Olivia Lucca Fraser, Halifax-based theorist, scholar
 and programmer, and one of the members of Laboria Cuboniks, about her vision for
 XFM and some of the implications of technofeminist critique considered more
 broadly – including its relation to aesthetics, online discourse, activism and

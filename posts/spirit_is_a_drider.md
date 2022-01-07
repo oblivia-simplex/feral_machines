@@ -1,6 +1,6 @@
 ---
 title: Spirit is a Drider
-author: Peli Grietzer & Lucca Fraser
+author: Peli Grietzer & Olivia Lucca Fraser
 date: 2019-02-23
 tags: [d&d, hegel, psychoanalysis, shitposting, peli]
 abstract: On the subject of Elves.

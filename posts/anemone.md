@@ -1,6 +1,6 @@
 ---
 title: Spanish, Ontario
-author: Lucca Fraser
+author: Olivia Olivia Lucca Fraser
 date: 2021-06-10
 tags: [poetry]
 aliases: ['Spanish, Ontario']

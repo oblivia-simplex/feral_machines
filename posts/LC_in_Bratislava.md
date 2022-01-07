@@ -1,6 +1,6 @@
 ---
 title: 'A Question of Will: Laboria Cuboniks in Bratislava'
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2019-04-10
 tags: [xenofeminism, memetics, ethics]
 abstract: Transcript of a talk we gave in Bratislava, in the Spring of 2017.

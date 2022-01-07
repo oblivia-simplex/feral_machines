@@ -1,6 +1,6 @@
 ---
 title: Secrets of the Ooze
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2019-03-09
 tags: [weird_machines, genetic_programming, ontology, the_last_instance, conflated_automatons, abstraction, roper]
 abstract: A reply to Dom at The Last Instance and Adam at Conflated Automatons, on the subject of "ontological slime" in computation, with much yeggogological meandering.

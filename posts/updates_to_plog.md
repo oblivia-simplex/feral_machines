@@ -1,6 +1,6 @@
 ---
 title: "Major Updates to the P'log Platform"
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2021-08-10
 tags: [plog, blogging, obsidian]
 abstract: Out with the toc.data file, in with YAML metadata headers!

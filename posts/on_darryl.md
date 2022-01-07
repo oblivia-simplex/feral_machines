@@ -1,6 +1,6 @@
 ---
 title: 'Lost in the Rain and the Roar: On Darryl, by Jackie Ess'
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2021-03-06
 tags: [literature, review, comedy, sex]
 abstract: "An admittedly biased but altogether honest review of Jackie Ess's debut novel."

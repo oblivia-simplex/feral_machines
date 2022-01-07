@@ -1,6 +1,6 @@
 ---
 title: Natural Selection Considered Harmful
-author: Lucca Fraser
+author: Olivia Olivia Lucca Fraser
 date: 2019-02-27
 tags: [genetic_programming, viruses, history, roper]
 abstract: A brief history of those few times where computer virus design and evolutionary computation have crossed paths.

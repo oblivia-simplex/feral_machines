@@ -1,6 +1,6 @@
 ---
 title: "A Clean, Well-Lighted Place"
-author: Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2022-01-05
 tags: [plog]
 abstract: "P'log now supports light mode and dark mode, and will select the stylesheet on the basis of system preferences."
