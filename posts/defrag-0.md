@@ -1,6 +1,6 @@
 ---
 title: Defrag Commit Zero
-author: Olivia Olivia Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2019-07-25
 tags: [misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting]
 abstract:  A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my /src/feral_machines/content/posts/scratch directory. This quickly turned into a sprawling, incoherent omnibus post.

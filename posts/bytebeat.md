@@ -1,6 +1,6 @@
 ---
 title: Three New Bytebeat Tunes
-author: Olivia Olivia Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2019-12-12
 tags: [music, bytebeat]
 abstract: There's three of them, and they're new.

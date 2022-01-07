@@ -1,6 +1,6 @@
 ---
 title: Convenient Abstractions
-author: Olivia Olivia Lucca Fraser
+author: Olivia Lucca Fraser
 date: 2019-03-03
 abstract: Brief remark on a common sophism.
 tags: [ethics, sophistry, abstraction]
