@@ -11,4 +11,4 @@ abstract: "Some information about the blog."
 
 There isn't much of a theme to this blog. The texts here, so far, range over philosophy, computer science, poetry, fiction, casual musings, music, jokes. I don't have any clear idea of who the audience for all this could be.
 
-As of [January, 2022](new_years_resolution_2022.md), you can expect to start seeing some short fiction, here, on a monthly basis. I'm holding myself to it. 
+As of [January, 2022](../posts/new_years_resolution_2022.md), you can expect to start seeing some short fiction, here, on a monthly basis. I'm holding myself to it. 
