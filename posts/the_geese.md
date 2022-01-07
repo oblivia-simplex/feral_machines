@@ -2,10 +2,11 @@
 title: The Geese
 author: Olivia Lucca Fraser
 tags: [draft, fiction/short_story, obstructions]
-date: 2021-12-31
+date: 2022-01-31
 abstract: "A young man meets a musician."
 ---
 # The Geese
+![Geese](img/geese-colouring-book.png)
 
 "Oh, it's not *magic*, you flatterer -- it's scarcely *music!*" she'd said, as she unscrewed each antennae from the ghostly instrument and placed each delicate piece into its corresponding cavity in the velvet-lined case. I pleaded her not to be modest, that I'd never, *ever*, heard anything like it. And I'm sure that I went on like that, rambling like a man who wakes from anaesthesia with that delusory sense of lucidity. "An enchantress!" she laughed, and I blushed to hear what I'd been saying. The auditorium had mostly emptied, with a clot of the curious hanging round the exit. A tall man in tweed looked as if he were trying not to laugh as he bent down to mutter something to the fur-clad lady at his side, her hat hardly higher than his elbow. 
 
