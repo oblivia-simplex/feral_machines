@@ -2,7 +2,7 @@
 title: Transcendental Philosophy Bull Session, with Jackie Ess & Peli Grietzer
 author: Peli Grietzer & Jackie Ess
 date: 2020-06-13
-tags: [philosophy, transcendental, conversation, peli]
+tags: [philosophy, transcendental, conversation, guest, peli, jackie]
 abstract: Peli and Jackie stayed up all night, talking about transcendental philosophy. This is the transcript.
 ---
 
