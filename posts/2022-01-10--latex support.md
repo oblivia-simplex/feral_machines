@@ -3,7 +3,6 @@ title: "P'log Now Renders $\LaTeX$-style Math Expressions"
 author: me
 date: 2022-01-10
 tags:
-- draft
 - plog
 - typography
 abstract: "I've added support for $\LaTeX$-style math expressions to the blogging engine that this website runs on."
