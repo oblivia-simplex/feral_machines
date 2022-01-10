@@ -7,7 +7,7 @@ tags:
 abstract: "Let's see if this works."
 ---
 
-Let's see if this renders properly. \(\frac{1}{2}\) 
+Let's see if this renders properly. $\frac{1}{2}$ 
 
 $$\mathbb{B}^n \rightarrow \mathbb{B}^m$$
 
