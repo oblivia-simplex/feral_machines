@@ -1,6 +1,6 @@
 ---
 title: 'Whore for Capitalism: On Publishing a Book'
-author: Olivia Lucca Fraser
+author: Lindsay Lerman
 date: 2019-07-22
 tags: [feminism, writing, guest]
 abstract: "You know what? Fuck all the journals, all the lit mags, all the respectable outlets. They keep telling me (re: this piece about the industry) things like 'We're tightening up our social media platforms, so we're focusing on pieces that we feel will be highly consumable via the platforms. This might be too dark for us at the moment.' Or 'Would you consider re-working so the tone is jauntier?' Say I make it jaunty and friendly and social-media-ready and a couple respectable people at a couple respectable venues acknowledge my existence for two seconds and I maybe sell a few extra books? That can't be worth it. I just can't see how it's worth it. The more I think about it, the more it should be on a blog, open to everyone and without all the extra bullshit. (A guest post by Lindsay Lerman.)"
