@@ -7,7 +7,7 @@ abstract: On the subject of Elves.
 ---
 
 
-![drider](/img/Drider.PNG)
+![drider](../img/Drider.PNG)
 
 ---
 
@@ -81,4 +81,4 @@ it seriously does!
 
 ---
 
-![Lolth](/img/Lolth.PNG)
+![Lolth](../img/Lolth.PNG)

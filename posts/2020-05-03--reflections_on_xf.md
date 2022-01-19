@@ -75,7 +75,7 @@ None of us are. What I say, now, from that remembered or imagined position
 doesn't come from Laboria's mouth. Is it constrained, at least, to be consistent
 with what Laboria said? That's not entirely clear.
 
-![bride of frankenstein](/img/BRIDE-OF-FRANKENSTEIN.jpg)
+![bride of frankenstein](../img/BRIDE-OF-FRANKENSTEIN.jpg)
 
 When we, Laboria, wrote that text, I had hoped to let it remain indefinitely
 under the mask of pseudonymity. Laboria was the person charged with authoring

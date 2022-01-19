@@ -82,7 +82,7 @@ teacher whose tests have become so impossibly difficult that all of her students
 uniformly fail, for example, is "outperforming" the students, in this sense --
 but in this sense alone.
 
-![genpong](/img/pong.png)
+![genpong](../img/pong.png)
 
 Or to take another example, and one you can experiment with
 a bit more freely, imagine

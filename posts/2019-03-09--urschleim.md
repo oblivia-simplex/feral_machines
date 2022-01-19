@@ -205,13 +205,13 @@ technique that Wimsatt describes:
 > through the first instruction, so that the calculator believes the end of the
 > first instruction is actually the beginning of a new one.
 
-![Wickes](/img/synthetic_programming_on_the_hp-41.jpg)
+![Wickes](../img/synthetic_programming_on_the_hp-41.jpg)
 
 I haven't yet been able to find a copy of Wickes' book (pictured above), but the
 level of nerd sniping evident on its back cover alone -- with its Carrollian
 paen to calculator hacking -- has me at its mercy.
 
-![Wickes](/img/synthetic_programming_on_the_hp-41--rear.jpg)
+![Wickes](../img/synthetic_programming_on_the_hp-41--rear.jpg)
 
 Transcription:
 
@@ -419,7 +419,7 @@ where the locally scoped variables used in each function are stored -- like
 the **char buffer[10]** variable, which belongs to **hello()**'s scope, 
 in the [above example](#code_example).
 
-![stack frame](/img/stack_frame.png)
+![stack frame](../img/stack_frame.png)
 
 From the perspective of the unwary programmer, call stacks and local
 variable scopes are two distinct abstractions, with no direct means of
@@ -511,7 +511,7 @@ limited state machine, such as the one shown below. Here, passing the empty
 string (denoted &epsilon;) as input sends us to the "Usage Instructions" state,
 while -- ideally -- passing a name as input sends us to the "Greeting" state.
 
-![fsm1](/img/hello-fsm.png)
+![fsm1](../img/hello-fsm.png)
 
 This state machine represents a tiny ontological level of its own, abstracted
 away from the general purpose computer that thrums below. But this abstraction
@@ -524,7 +524,7 @@ in the "Structured Programming Machine" undermined, the ontological
 plane of the Hello Machine drops out from under us, and we are cast into
 what we call a "weird state" (illustrated below).
 
-![fsm2](/img/hello-fsm-shoggoth.png)
+![fsm2](../img/hello-fsm-shoggoth.png)
 
 But this isn't the end of the story. The underlying machinery is still running,
 and this weird state opens onto a virtually boundless horizon of possibility.
@@ -541,7 +541,7 @@ attack strategy made famous by Aleph One's
 [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html),
 in the 49th issue of Phrack.
 
-![smashing the stack](/img/stack_frame_attack.png)
+![smashing the stack](../img/stack_frame_attack.png)
 
 ## The Geometry of Innocent Slime on the Bone
 
@@ -554,7 +554,7 @@ that's at the heart of every exploit. If code, after all, is just
 _whatever the CPU can execute_, then blocking the direct execution of
 input data would seem to be enough. 
 
-![w&oplus;x](/img/stack_frame_attack_w^x.png)
+![w&oplus;x](../img/stack_frame_attack_w^x.png)
 
 But this mitigation ultimately fails to prevent remote code execution,
 and it fails because it rests on an insufficiently general concept of
@@ -847,7 +847,7 @@ forms... In the case of the primordial soup, all that was needed
 to coax complexity and coherence out of the ooze was _selection_. Could
 the same be said of all this "artificial slime"?
 
-![img](/img/AI_ooze_transparent.png)
+![img](../img/AI_ooze_transparent.png)
 
 If you're already familiar with my current research obsessions, then you would
 expect my answer to this question to be an unhesitating "yes". And you would be
