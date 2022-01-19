@@ -40,6 +40,7 @@ abstract: Links and things.
 # Libraries, Magazine, Archives, etc.
 
 * [Aaaarg](http://aaaarg.fail/)
+* [Concept and Form: The Cahiers pour l'Analyse and Contemporary French Thought](http://cahiers.kingston.ac.uk/)
 * [Gauss PDF](http://www.gauss-pdf.com/)
 * [Glass Bead](https://glass-bead.org)
 * [Jean-Yves Girard's Homepage](http://girard.perso.math.cnrs.fr/Accueil.html)
