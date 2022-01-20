@@ -23,7 +23,7 @@ abstract: Links and things.
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
-* [Yellow Dusk](https://yellowdus.cc) -- Aaron Novick
+* [Yellow Dusk](https://yellowdus.cc) -- Rose Novick
 
 ## Dormant
 
