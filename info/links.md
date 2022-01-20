@@ -29,7 +29,7 @@ abstract: Links and things.
 
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 * [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
-* [The Equalizing Jokebook](https://aaronnovick.com) -- Aaron Novick
+* [The Equalizing Jokebook](https://aaronnovick.com) -- Rose Novick
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
   its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
