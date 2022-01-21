@@ -24,12 +24,12 @@ abstract: Links and things.
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
 * [Yellow Dusk](https://yellowdus.cc) -- Rose Novick
+* [Rose Novick's Homepage](https://rosenovick.com) -- Rose Novick
 
 ## Dormant
 
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 * [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
-* [The Equalizing Jokebook](https://aaronnovick.com) -- Rose Novick
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
   its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
