@@ -9,14 +9,7 @@ tags: [genetic_programming, coevolution, memetics, academia]
 ## Quick and Dirty Introduction to Genetic Programming
 
 Evolution only needs three things to occur: replication, variation, and
-selection.
-[It doesn't need "life"](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077) [(Archived)](https://web.archive.org/web/20220106/https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077),
-and isn't even fussy about any particular properties of the matter involved. Programs, in
-fact, are exemplary candidates for evolution. It's possible -- in fact, it's
-easy -- to evolve programs that are well-adapted to particular tasks, that find
-optimal solutions to problems, that fuzz out leaks and holes in software, that
-discover and exploit vulnerabilities, etc. The craft of doing so is called
-"genetic programming".
+selection. [It doesn't need "life"](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077) [(Archived)](https://web.archive.org/web/20220106/https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077), and isn't even fussy about any particular properties of the matter involved. Programs, in fact, are exemplary candidates for evolution. It's possible -- in fact, it's easy -- to evolve programs that are well-adapted to particular tasks, that find optimal solutions to problems, that fuzz out leaks and holes in software, that discover and exploit vulnerabilities, etc. The craft of doing so is called "genetic programming".
 
 Classically, what you need to implement genetic programming is this: some way of
 selecting, out of a population of (intially random) programs, candidates for
