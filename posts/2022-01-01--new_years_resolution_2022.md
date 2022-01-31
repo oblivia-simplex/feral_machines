@@ -16,4 +16,4 @@ I think this will lend some momentum to the blog again, and just get me in the h
 
 
 # Updates
-- I think I might be running a few days behind with the first one, but it should be by Friday at the latest. Is it too late to amend this resolution to say "by the first Friday of every month, beginning in February?" Might be. I'll do some 
+- I think I might be running a few days late with the first one. It should be up by the end of the week. Is it too late to amend my resolution to say "by the first Friday of every month, beginning in February?" Probably. I'll do some sort of penance for this.
