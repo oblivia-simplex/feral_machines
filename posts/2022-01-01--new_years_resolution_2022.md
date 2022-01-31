@@ -15,3 +15,5 @@ So here's the plan: by the end of each and every month in 2022, I'm going to pos
 I think this will lend some momentum to the blog again, and just get me in the habit of posting here. I've decided to take another break from social media (twitter and facebook, in any case), which in the past seemed to lead to me posting more here. So who knows? I think that'd be nice. 
 
 
+# Updates
+- I think I might be running a few days behind with the first one, but it should be by Friday at the latest. Is it too late to amend this resolution to say "by the first Friday of every month, beginning in February?" Might be. I'll do some 
