@@ -66,7 +66,7 @@ He fished a Red Bird match from a flowerpot on the fridge, struck it against the
 His theatre critic days were behind him. This was due to the withering of the fourth estate, in fact, only in part. His facility with language had left him. The diaries he still kept and scribbled in daily he could no longer bear to read. His worries clattered out of him in clunky blocks of cliché. Coarse cries of pain collaged from commercials. He was no longer at home with words.
 
 <!-- fix this first sentence -->
-There was a pulse of flickering light in the hall and the unmuffling of a a bright conversation that swiftly gave way to goodbyes. Ashley turned from the stove to see Javier return. 
+There was a pulse of flickering light in the hall and a brief unmuffling of bright conversation that swiftly gave way to goodbyes. Ashley turned from the stove to see Javier return. 
 
 "You know, Ash," he said, while the canning pot boiled and the mason jars clattered, "she cares for you a great deal. She has such appreciation for you. Do you know that?" Ashley bobbled his head and smiled at the warmth in Javier's voice. Javier removed his tennis shoes, placed them neatly next to the door, and pulled on his rubber boots. He hoisted a heavy green raincoat from a peg beside the door, and gripping the cuffs of his sleeves so they wouldn't ride up, slowly pulled it on, without taking his eyes off Ashley. "I do hope you know that." He turned towards the door.
 
