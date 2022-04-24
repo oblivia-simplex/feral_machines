@@ -4,7 +4,6 @@ author: Olivia Lucca Fraser
 date: 2022-04-23
 tags:
 - fiction
-- draft
 - short_story
 - obstructions
 abstract: "Moving to the country, gonna eat a lot of peaches."
