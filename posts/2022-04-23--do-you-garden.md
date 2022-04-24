@@ -74,7 +74,7 @@ Fiddling with a peach stone he'd just finished scrubbing, Ashley fumbled for wor
 
 "Ah, I almost forgot!" Javier said and started to pull off his boots.
 
-"It's fine," Ashley said, "I have to mop anyway." 
+"It's fine," Ashley said, "I have to do the, uh, the mopping, still, it's, it's fine." 
 
 Javier shrugged, checked the seal on the bucket, and then pressed it tight til it clicked on one side. He shook it gently and said, "thank you, Ash!"
 
