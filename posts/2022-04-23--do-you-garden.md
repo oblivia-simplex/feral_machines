@@ -10,7 +10,6 @@ abstract: "Moving to the country, going to eat a lot of peaches."
 ---
 
 
-# Do You Garden?
 
 **As Ashley massaged** the loose skin free from the flesh of a boiled peach, the last one of one of the day's last batches, each batch a batch of a dozen, at least, and then braced the paring knife's blunt edge against the blistered pad of his thumb, numbed from being plunged into the mostly molten ice to fish out one peach after another, his thoughts would gather in the familiar hollow the familiar work hollowed out. These concerned his wife.
 
