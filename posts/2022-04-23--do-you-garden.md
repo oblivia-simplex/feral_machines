@@ -11,9 +11,11 @@ abstract: "A short story."
 
 # Do You Garden?
 
-![peaches](../img/peaches.jpg)
+
 
 **As Ashley massaged** the loose skin free from the flesh of a boiled peach, the last one of one of the day's last batches, each batch a batch of a dozen, at least, and then braced the paring knife's blunt edge against the blistered pad of his thumb, numbed from being plunged into the mostly molten ice to fish out one peach after another, his thoughts would gather in the familiar hollow the familiar work hollowed out. These concerned his wife.
+
+![peaches](../img/peaches.jpg)
 
 When knife bit into the peach pit, he rolled it full circle and thought of Sheila, his wife, and with a twist split open the peach. He scooped up the slippery halves of the peach and with a thought of his wife they lept from his hands to the jar like pair of koi. And with thoughts of her came thoughts of the fire and the rest revolved around these. Now and then these thoughts were eclipsed by thoughts of the nurse, Javier, as when he gathered the pits in an ice-cream bucket that the sun had bleached a dull green.
 
