@@ -39,7 +39,7 @@ He unclenched the fist of his face and looked up. Javier was standing behind him
 
 "No, sorry, I'm, I'm okay, I didn't get stung. I'm okay. I got it."
 
-At this Javier appeared to relax, and his broad smile returned. He snapped his fingers into a gun and winked. "I'd hate to see the other guy," he said, .
+At this Javier appeared to relax, and his broad smile returned. He snapped his fingers into a gun and winked. "I'd hate to see the other guy," he said.
 
 "Oh, huh, yeah, haha, yeah, yeah, haha, yeah, oh yeah," said Ashley, "haha, yeah, he, uh, I mean she, uh, yeah, he won't be bothering *us* anymore! Haha!" said Ashley. He crouched back down to pick up the beach glass. "So how's she doing?" he asked, without looking up. "Sheila, I mean."
 
