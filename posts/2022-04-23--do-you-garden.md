@@ -15,7 +15,7 @@ abstract: "Moving to the country, going to eat a lot of peaches."
 
 When knife bit into the peach pit, he rolled it full circle and thought of Sheila, his wife, and with a twist split open the peach. He scooped up the slippery halves of the peach and with a thought of his wife they lept from his hands to the jar like pair of koi. And with thoughts of her came thoughts of the fire and the rest revolved around these. Now and then these thoughts were eclipsed by thoughts of the nurse, Javier, as when he gathered the pits in an ice-cream bucket that the sun had bleached a dull green.
 
-<!-- ![](../img/peaches.jpg) -->
+![](../img/peaches.jpg) 
 
 <!-- Image credit: Daily paintings  Three peaches  Postcard from Provence at <https://shiftinglight.com/2019/06/three_peaches_190611.html> -->
 
