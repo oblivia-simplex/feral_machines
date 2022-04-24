@@ -5,15 +5,16 @@ date: 2022-04-23
 tags:
 - fiction
 - draft
+- short_story
 - obstructions
-abstract: "Moving to the country, going to eat a lot of peaches."
+abstract: "Moving to the country, gonna eat a lot of peaches."
 ---
 
 
 
 **As Ashley massaged** the loose skin free from the flesh of a boiled peach, the last one of one of the day's last batches, each batch a batch of a dozen, at least, and braced the knife's blunt edge against his blistered thumb, numbed from being plunged into mostly molten ice to fish one peach out after another, his thoughts would gather in the familiar hollow the familiar work hollowed out. These concerned his wife.
 
-When the blade bit the pit he tilted the knife til the incision connected full circle. He thought of Sheila. With a little twist he split open the peach and he couldn't really be near her these days. He scooped up the slippery halves of it, at a loss to say what remained to be tried, though all of it still felt strange to him, and the peach slices lept in the jar like koi. His thoughts revolved around the fire, around his wife and the fire, even if they were now and then eclipsed by thoughts of the nurse, Javier. He gathered the pits in an ice-cream bucket. <!-- that the sun had bleached a dull green. -->
+When the blade bit the pit he tilted the knife til the incision connected full circle. He thought of Sheila. With a little twist he split open the peach and he couldn't really be near her these days. He scooped up the slippery halves of it, at a loss to say what remained to be tried, though all of it still felt strange to him, and the peach slices lept like koi in the jar. His thoughts revolved around the fire, around his wife and the fire, even if they were now and then eclipsed by thoughts of the nurse, Javier. He gathered the pits in an ice-cream bucket. <!-- that the sun had bleached a dull green. -->
 
 ![](../img/peaches.jpg) 
 
