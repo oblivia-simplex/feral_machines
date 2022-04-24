@@ -5,19 +5,18 @@ date: 2022-04-23
 tags:
 - fiction
 - draft
-abstract: "A short story."
+- obstructions
+abstract: "Moving to the country, going to eat a lot of peaches."
 ---
 
 
 # Do You Garden?
 
-
-
 **As Ashley massaged** the loose skin free from the flesh of a boiled peach, the last one of one of the day's last batches, each batch a batch of a dozen, at least, and then braced the paring knife's blunt edge against the blistered pad of his thumb, numbed from being plunged into the mostly molten ice to fish out one peach after another, his thoughts would gather in the familiar hollow the familiar work hollowed out. These concerned his wife.
 
 When knife bit into the peach pit, he rolled it full circle and thought of Sheila, his wife, and with a twist split open the peach. He scooped up the slippery halves of the peach and with a thought of his wife they lept from his hands to the jar like pair of koi. And with thoughts of her came thoughts of the fire and the rest revolved around these. Now and then these thoughts were eclipsed by thoughts of the nurse, Javier, as when he gathered the pits in an ice-cream bucket that the sun had bleached a dull green.
 
-![peaches](../img/peaches.jpg)
+<!-- ![](../img/peaches.jpg) -->
 
 <!-- Image credit: Daily paintings  Three peaches  Postcard from Provence at <https://shiftinglight.com/2019/06/three_peaches_190611.html> -->
 
@@ -63,7 +62,8 @@ He fished a Red Bird match from a terra cotta pot on the dusty top of the fridge
 
 His theatre critic days were in any case behind him, due to the withering away of the fourth estate, in fact, only in part. His facility with language had left him. The diaries he still kept and scribbled in daily he could no longer bear to read. His worries clattered out of him in clunky blocks of cliché. He was no longer at home with words.
 
-The hallway pulsed with flickering light and the indecipherable end of a bright conversation became for a moment unmuffled before giving way to goodbyes as the door to the bedroom opened and shut and Javier returned to the kitchen. "You know, Ash," he said, while the canning pot boiled and the mason jars mutely clattered about, "she cares for you a great deal. She has such appreciation for you. Do you know that?" Ashley nodded his head like a bobblehead doll and smiled at the warmth in his voice. Javier removed his tennis shoes, placed them neatly by the door, and pulled on his rubber boots. He lifted a heavy green raincoat from a peg beside the door, and gripping the cuffs of his scrub sleeves so they wouldn't ride up, he slowly put it on, without taking his eyes off Ashley. "I do hope you know that." He turned towards the door.
+<!-- fix this first sentence -->
+The hallway pulsed with flickering light and the end of a bright conversation first unmuffled then gave way to goodbyes and Javier returned to the kitchen. "You know, Ash," he said, while the canning pot boiled and the mason jars mutely clattered about, "she cares for you a great deal. She has such appreciation for you. Do you know that?" Ashley nodded his head like a bobblehead doll and smiled at the warmth in his voice. Javier removed his tennis shoes, placed them neatly by the door, and pulled on his rubber boots. He lifted a heavy green raincoat from a peg beside the door, and gripping the cuffs of his scrub sleeves so they wouldn't ride up, he slowly put it on, without taking his eyes off Ashley. "I do hope you know that." He turned towards the door.
 
 Fiddling with a peach stone he'd just finished scrubbing, Ashley said, "oh, Javier, the, uh... they're ready for you," in a voice that felt flustered and stilted. "The peach stones, I mean," he said, nodding at the plastic ice cream bucket on the corner of the table.
 
