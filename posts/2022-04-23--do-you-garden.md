@@ -37,7 +37,7 @@ He unclenched the fist of his face and stood up. Javier was there in his sneaker
 
 “No, no, sorry, no, it was just a stu – just a wasp. It was just a really, really big wasp. In the, uh, fuck –” He felt his face getting hotter.
 
-“Ash, you appear to be having a reaction. I need you to answer me, Ash." he said, in a painfully clear and measured tone,. "Are you allergic to bees??”
+“Ash, you appear to be having a reaction. I need you to answer me, Ash," he said, in painfully clear and measured tones. "Are you allergic to bees?”
 
 “No. Sorry,” he said. “No, sorry, I’m not. It’s… I’m… it’s fine, I’m okay.”
 
