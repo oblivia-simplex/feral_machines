@@ -6,8 +6,8 @@ author_lastname: Fraser
 contact_name: Olivia Lucca Fraser
 contact_address: 6951 Mumford Road
 contact_city_state_zip: "Halifax, Nova Scotia, B3L 2H7"
-contact_phone: (902) 222-7378
-contact_email: lucca.fraser@gmail.com
+contact_phone: "(902) 222-7378"
+contact_email: "lucca.fraser@gmail.com"
 date: 2022-04-23
 tags:
 - fiction
