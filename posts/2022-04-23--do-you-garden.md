@@ -1,5 +1,5 @@
 ---
-title: 2022-04-23--do-you-garden
+title: "Do You Garden?"
 short_title: "Do You Garden?"
 author: Olivia Lucca Fraser
 author_lastname: Fraser
@@ -14,10 +14,9 @@ tags:
 - short_story
 - obstructions
 abstract: "A short story about fire and peaches."
-date created: "Monday, April 25th 2022, 1:32:35 pm"
-date modified: "Wednesday, May 4th 2022, 9:35:07 pm"
+date_created: "Monday, April 25th 2022, 1:32:35 pm"
+date_modified: "Wednesday, May 4th 2022, 9:43:15 pm"
 ---
-
 
 As Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against his blistered thumb, numbed from fishing the peaches out of a bowl of (mostly) molten ice, his thoughts would pool in the familiar hollow the familiar work hollowed out. These concerned his wife and the fire.
 
