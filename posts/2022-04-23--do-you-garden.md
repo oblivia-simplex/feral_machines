@@ -13,7 +13,6 @@ tags:
 - fiction
 - short_story
 - obstructions
-- draft
 abstract: ""
 date created: Monday, April 25th 2022, 1:32:35 pm
 date modified: Wednesday, May 4th 2022, 9:35:07 pm
