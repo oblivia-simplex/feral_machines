@@ -14,8 +14,8 @@ tags:
 - short_story
 - obstructions
 abstract: "A short story about fire and peaches."
-date created: Monday, April 25th 2022, 1:32:35 pm
-date modified: Wednesday, May 4th 2022, 9:35:07 pm
+date created: "Monday, April 25th 2022, 1:32:35 pm"
+date modified: "Wednesday, May 4th 2022, 9:35:07 pm"
 ---
 
 
