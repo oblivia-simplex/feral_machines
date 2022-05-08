@@ -1,5 +1,4 @@
 ---
-aliases: 
 title: "Do You Garden?"
 short_title: "Do You Garden?"
 author: Olivia Lucca Fraser
