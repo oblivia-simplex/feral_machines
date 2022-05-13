@@ -10,12 +10,13 @@ contact_phone: "(902) 222-7378"
 contact_email: "lucca.fraser@gmail.com"
 date: 2022-04-23
 tags:
+- draft
 - fiction
 - short_story
 - obstructions
 abstract: "A short story about fire and peaches."
 date_created: "Monday, April 25th 2022, 1:32:35 pm"
-date_modified: "Sunday, May 8th 2022, 10:05:01 am"
+date_modified: "Friday, May 13th 2022, 4:56:31 pm"
 modified: 2022-05-09
 ---
 
