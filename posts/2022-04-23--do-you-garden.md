@@ -22,6 +22,8 @@ modified: 2022-05-09
 
 Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, the last one fished from the ice bath, which numbed the blistered pad of his thumb now bracing the spine of the paring knife, as his thoughts pooled in the familiar hollow the familiar work hollowed out. <!-- alt: the familiar void this ritual of work hollowed out (emily's suggestion) --> These concerned his wife.
 
+%% OR %%
+
 Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against the wrinkled pad of his thumb. A blister was forming there, the skin numbed from fishing the peaches out of the ice bath, and his thoughts pooled in the familiar hollow the familiar work hollowed out. These had to do with his wife.
 
 <!-- still working on this tricky 1st paragraph -->
