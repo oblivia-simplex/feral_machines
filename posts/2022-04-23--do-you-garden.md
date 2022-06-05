@@ -22,10 +22,16 @@ modified: 2022-05-09
 
 Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, the last one fished from the ice bath, which numbed the blistered pad of his thumb now bracing the spine of the paring knife, as his thoughts pooled in the familiar hollow the familiar work hollowed out. <!-- alt: the familiar void this ritual of work hollowed out (emily's suggestion) --> These concerned his wife.
 
+<!--
 %% OR %%
 
 Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against the wrinkled pad of his thumb. A blister was forming there, the skin numbed from fishing the peaches out of the ice bath, and his thoughts pooled in the familiar hollow the familiar work hollowed out. These had to do with his wife.
 
+%%%%
+
+Ashley massaged the fragile skin from the bright flesh of the peach, boiled and chilled in a bowl of ice, most of which had melted. 
+
+-->
 <!-- still working on this tricky 1st paragraph -->
 
 Once the blade had bit into the pit he tilted and rolled it slowly about til the incision connected full circle. She, Sheila, had been blazing for years. With a little twist he split open the peach. He couldn’t bear to be near her these days. He scooped up the slippery halves of the peach, at a loss to say what was left to be tried. But all of it was still was so strange, was all, even — especially! — three years in, and the peach slices leapt like a pair of koi into the open mouth of the jar. His thoughts revolved around his wife, around his wife and the fire, eclipsed, now and then, by Javier, for whom, as a favour, he collected the pits, in a sun-beaten two-litre ice-cream pail.
