@@ -1,6 +1,6 @@
 ---
-title: "Do You Garden?"
-short_title: "Do You Garden?"
+title: The Pits
+short_title: The Pits
 author: Olivia Lucca Fraser
 author_lastname: Fraser
 contact_name: Olivia Lucca Fraser
@@ -10,36 +10,26 @@ contact_phone: "(902) 222-7378"
 contact_email: "lucca.fraser@gmail.com"
 date: 2022-04-23
 tags:
-- draft
 - fiction
 - short_story
 - obstructions
 abstract: "A short story about fire and peaches."
 date_created: "Monday, April 25th 2022, 1:32:35 pm"
-date_modified: "Friday, May 27th 2022, 3:37:21 pm"
+date_modified: "Thursday, August 11th 2022, 10:42:06 pm"
 modified: 2022-05-09
 ---
 
-Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, the last one fished from the ice bath, which numbed the blistered pad of his thumb now bracing the spine of the paring knife, as his thoughts pooled in the familiar hollow the familiar work hollowed out. <!-- alt: the familiar void this ritual of work hollowed out (emily's suggestion) --> These concerned his wife.
+Ashley massaged the fragile skin from the flesh of a boiled peach. He braced the spine of the knife with his thumb, blistered but numbed by the ice bath, and rolled the blade around the pit. Thoughts of his wife pooled in the hollow the familiar work hollowed out.
 
-<!--
-%% OR %%
+<!-- i feel like this just needs a tiny bit more polish -->
 
-Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against the wrinkled pad of his thumb. A blister was forming there, the skin numbed from fishing the peaches out of the ice bath, and his thoughts pooled in the familiar hollow the familiar work hollowed out. These had to do with his wife.
-
-%%%%
-
-Ashley massaged the fragile skin from the bright flesh of the peach, boiled and chilled in a bowl of ice, most of which had melted. 
-
--->
-<!-- still working on this tricky 1st paragraph -->
-
-Once the blade had bit into the pit he tilted and rolled it slowly about til the incision connected full circle. She, Sheila, had been blazing for years. With a little twist he split open the peach. He couldn’t bear to be near her these days. He scooped up the slippery halves of the peach, at a loss to say what was left to be tried. But all of it was still was so strange, was all, even — especially! — three years in, and the peach slices leapt like a pair of koi into the open mouth of the jar. His thoughts revolved around his wife, around his wife and the fire, eclipsed, now and then, by Javier, for whom, as a favour, he collected the pits, in a sun-beaten two-litre ice-cream pail.
+The fire had just never gone out. He gave the knife a little twist and split the peach in two. It was hard to stand in the same room as her, now. It was hard to really get used to these things. He scooped up the gleaming slices of fruit and they slipped like goldfish into the jar while his thoughts revolved around his wife. Around his wife and the fire. Around his wife and the fire, his thoughts were eclipsed now and then by Javier. Javier, the nurse, who looked after her now. Javier, for whom he collected the pits, in a sun-beaten two-litre ice-cream pail, as a small, yearly favour.
 
 ![](../img/peaches.jpg)
+
 <!-- Image credit: Daily paintings Three peaches Postcard from Provence at <https://shiftinglight.com/2019/06/three_peaches_190611.html> -->
 
-His flip-flops puckered as he walked to the stove and the jars that honeycombed the countertop tinkled. He lowered the flame and stirred the syrup. The pine walls beaded with varnish and warmed the light in the kitchen, into which the smell of peaches had been steadily luring wasps. On three separate occasions he’d had to dump a jar of peaches into a colander in the sink, turn on the tap, and with his still-unblistered thumb pressed tight against the aerator, hose their twitching, brittle bodies through the slits. Each time it made him shudder. He’d pause to collect his nerves and look out across the orchard from the window above the sink. The afternoon light was an overcast grey that found the grey in everything. A glider turned in patient arcs, so close to the clouds in colour that only movement gave it away. Something twitched up close in the corner of the screen. Brassy, frantic legs and antennae, and a black as oil abdomen with a wispy ovipositor that urgently, intimately coiled and uncoiled. “*Stumpfucker!*” he wheezed before he felt his mouth move, everything out of sync now, scrambling about for a weapon. He wrapped his hands around a bottle of Joy and bludgeoned the thing with the butt of bottle before it could crawl into the house through the widening rip in the screen. Lemon ropes of dish soap shot in his direction. He smashed the thing again and again and when he had separated it from its abdomen and it still wouldn’t stop twitching he dropped the bottle and with his face in a knot he yanked the can out from under the sash. The window slammed so hard and so fast for a second he thought it had cracked.
+His flip-flops puckered as he walked to the stove and the jars that honeycombed the countertop tinkled. He lowered the flame. He stirred the syrup. The pine walls beaded with varnish and warmed the light in the kitchen into which the peaches and carmelized sugar had been steadily luring wasps. On three separate occasions he’d had to dump an entire jar of peaches into a colander in the sink, turn on the tap, and -- with his thumb against the faucet to concentrate the spray -- hose their twitching, brittle bodies through the slits. Each time it made him shudder. <!-- more than shudder? black cloudiness at the edge of his vision? --> He’d pause to collect his nerves and look out across the orchard from the window above the sink. The afternoon light was an overcast grey that found the grey in everything. A glider turned in patient arcs, so close to the clouds in colour that only movement gave it away. Something twitched up close in the corner of the screen. Brassy, frantic legs and antennae, and a black as oil abdomen with a wispy ovipositor that urgently, intimately coiled and uncoiled. “*Stumpfucker!*” he wheezed before he felt his mouth move, everything out of sync now, scrambling about for a weapon. He wrapped his hands around a bottle of Joy and bludgeoned the thing with the butt of bottle before it could crawl into the house through the widening rip in the screen. Lemon ropes of dish soap shot in his direction. He smashed the thing again and again and when he had separated it from its abdomen and it still wouldn’t stop twitching he dropped the bottle and with his face in a knot he yanked the can out from under the sash. The window slammed so hard and so fast for a second he thought it had cracked.
 
 The peaches in the colander were covered in detergent, which now was all over everything — he could taste it. His mother would wash his mouth out with soap whenever she caught him swearing. His scalp prickled with heat at the thought. The beach glass collection arranged on the window sill had been scattered across the sink, the counter, and the floor. He crouched down to gather them up and heard a low voice behind him.
 
@@ -55,13 +45,15 @@ He unclenched the fist of his face and stood up. Javier was there in his sneaker
 
 “No. Sorry,” he said. “No, sorry, it’s… I’m… it’s fine, I’m okay. Wasp.”
 
-“They're the same thing, Ash. Here,” he said, unzipping a burgundy fanny pack and rooting around inside it, “we’ll put some calamine lotion on it.”
+<!-- not sure about playing Javier for comic relief here. it may be the wrong move. he should seem wise, a little removed, tender -->
+
+“It's okay, Ash. Here,” he said, unzipping a burgundy fanny pack and rooting around inside it, “we’ll put some calamine on it.”
 
 “No, sorry, I’m, I’m okay, I didn’t get stung. I’m okay. I got it.”
 
-At this Javier appeared to relax and his broad smile returned. He made a finger gun and winked. “I’d hate to see the other guy\!”
+At this Javier appeared to relax and his broad smile returned. He snapped a finger gun at Ashley and winked. “I’d hate to see the other guy!”
 
-“Oh, huh, yeah, haha, yeah, yeah, haha, yeah, oh yeah,” said Ashley, “haha, yeah, he, uh, I mean she, uh, yeah, he won’t be bothering *us* anymore\! Haha\!” He crouched to pick up the green lumps of glass. “So how’s she doing?” he asked. “Sheila, I mean.”
+“Oh, huh, yeah, haha, yeah, yeah, haha, yeah, oh yeah,” said Ashley, “haha, yeah, he, uh, I mean she, uh, yeah, he won’t be bothering *us* anymore! Haha!” He crouched to pick up the lumps of glass. “So how’s she doing?” he asked. “Sheila, I mean.”
 
 “Oh, she’s doing very well,” he said with a chuckle. “She’s a very intelligent woman, you know, very wise. But it’s clear. You know this.”
 
