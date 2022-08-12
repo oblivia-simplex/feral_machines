@@ -23,7 +23,7 @@ Ashley massaged the fragile skin from the flesh of a boiled peach. He braced the
 
 <!-- i feel like this just needs a tiny bit more polish -->
 
-The fire had just never gone out. He gave the knife a little twist and split the peach in two. It was hard to stand in the same room as her, now. It was hard to really get used to these things. He scooped up the gleaming slices of fruit and they slipped like goldfish into the jar while his thoughts revolved around his wife. Around his wife and the fire. Around his wife and the fire, his thoughts were eclipsed now and then by Javier. Javier, the nurse, who looked after her now. Javier, for whom he collected the pits, in a sun-beaten two-litre ice-cream pail, as a small, yearly favour.
+The fire had just never gone out. He gave the knife a little twist and split the peach in two. It was hard to stand in the same room as her, now. He scooped up the gleaming slices of fruit and they slipped like goldfish into the jar. It was hard to really get used to these things and his thoughts moved in circles. They revolved around his wife and the fire,  eclipsed now and then by Javier. Javier, the nurse, who looked after her now. Javier, for whom he collected the pits, in a sun-beaten two-litre ice-cream pail, as a small, yearly favour.
 
 ![](../img/peaches.jpg)
 
