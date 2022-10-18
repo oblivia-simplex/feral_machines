@@ -10,6 +10,7 @@ contact_phone: "(902) 222-7378"
 contact_email: "lucca.fraser@gmail.com"
 date: 2022-04-23
 tags:
+- draft
 - fiction
 - short_story
 - obstructions
