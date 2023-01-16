@@ -79,7 +79,9 @@ This dictionary has the following entry for *trepidation*:
 
 The fourth, above all, caught my attention, and dovetailed nicely with the voracious Shalim.
 
-## The Six of Swords, Pamela Smith’s Illustration
+## The Six of Swords
+
+Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the version Emily and I used for the cue:
 
 ![the six of swords -- rider waite smith tarot.png](../img/the%20six%20of%20swords%20--%20rider%20waite%20smith%20tarot.png)
 
