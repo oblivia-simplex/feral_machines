@@ -6,7 +6,7 @@ tags:
 - obstruction
 - exercise
 date: 2023-01-15
-abstract: "Either a very short story or a fragment of a slightly longer one. I'm undecided. Elements: 'trepidation', 'Jerusalem', Six of Swords (Waite/Smith)."
+abstract: "Either a very short story or a fragment of a slightly longer one. I'm undecided. Obstacles: 'trepidation', 'Jerusalem', Six of Swords (Waite/Smith)."
 notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
@@ -22,7 +22,7 @@ vibe_match:
 
 ## Preface
 
-Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/) and I have been prompting one another to write by choosing a handful of more or less random, more or less arbitrary constraints, obstructions, or elements -- most often by grabbing a book off the shelf and flipping to a word with our eyes closed, or by pulling a card from a tarot deck, or something along those lines. We’ll then give one another a few hours to sit and write something that obliquely incorporates the elements picked. Usually something in the neighbourhood of 500-1000 words. Sometimes these go on to be worked into fully ripe stories, sometimes they sit in the scrap heap awaiting future use.
+Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/) and I have been prompting one another to write by choosing a handful of more or less random, more or less arbitrary constraints, obstacles, or elements -- most often by grabbing a book off the shelf and flipping to a word with our eyes closed, or by pulling a card from a tarot deck, or something along those lines. We’ll then give one another a few hours to sit and write something that obliquely incorporates the elements picked. Usually something in the neighbourhood of 500-1000 words. Sometimes these go on to be worked into fully ripe stories, sometimes they sit in the scrap heap awaiting future use.
 
 As a little experiment, I think I’ll try “showing my work,” here, at the risk of depriving the text of a chance to stand on its own. But I’ll do so at the end of the story (or fragment?) so as to at least get out of its way.
 
