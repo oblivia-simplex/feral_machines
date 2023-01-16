@@ -6,7 +6,7 @@ tags:
 - obstruction
 - exercise
 date: 2023-01-15
-abstract: "Either a very short story or a fragment of a slightly longer one. I'm undecided. Obstacles: 'trepidation', 'Jerusalem', Six of Swords (Waite/Smith)."
+abstract: "Either a very short story or a fragment of a slightly longer one -- I'm undecided -- accompanied by notes on the composition exercise it came from. Obstacles in play: 'trepidation', 'Jerusalem', Six of Swords (Waite/Smith)."
 notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
