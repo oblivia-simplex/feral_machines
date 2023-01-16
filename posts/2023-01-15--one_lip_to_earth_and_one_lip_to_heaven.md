@@ -62,6 +62,8 @@ Digging a little deeper, what caught my attention was the collective description
 
 This gave me my starting point.
 
+![asherah-nursing-shalim-and-shahar.jpg](../img/asherah-nursing-shalim-and-shahar.jpg)
+
 ## The Word ‘trepidation’
 
 I found this truly beautiful *Webster’s Twentieth Century Dictionary (Unabridged)* a week before Christmas, on the shelves at *Value Village*. There’s something I love about leafing through a vast paper dictionary, with its tiny lithographed diagrams, its onion skin paper, all its happy accidents... So much nicer than digital. It just has a warmer sound.
