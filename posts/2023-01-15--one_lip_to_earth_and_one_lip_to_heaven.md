@@ -18,8 +18,6 @@ vibe_match:
 - "[[sunlit patio in winter]]"
 - "[[monkey story]]"
 - "[[the giant toe -- notes|Story Idea: The Giant's Toe]]"
-aliases: [Preface]
-linter-yaml-title-alias: Preface
 ---
 
 # Preface
