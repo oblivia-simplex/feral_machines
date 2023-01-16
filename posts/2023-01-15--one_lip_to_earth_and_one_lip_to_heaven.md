@@ -79,6 +79,8 @@ This dictionary has the following entry for *trepidation*:
 
 The fourth, above all, caught my attention, and dovetailed nicely with the voracious Shalim.
 
+![trepidation-spheres.png](../img/trepidation-spheres.png)
+
 ## The Six of Swords
 
 Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the version Emily and I used for the cue:
