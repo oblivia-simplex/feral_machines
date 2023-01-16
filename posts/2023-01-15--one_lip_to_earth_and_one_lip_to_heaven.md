@@ -20,13 +20,13 @@ vibe_match:
 - "[[the giant toe -- notes|Story Idea: The Giant's Toe]]"
 ---
 
-# Preface
+## Preface
 
 Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/) and I have been prompting one another to write by choosing a handful of more or less random, more or less arbitrary constraints, obstructions, or elements -- most often by grabbing a book off the shelf and flipping to a word with our eyes closed, or by pulling a card from a tarot deck, or something along those lines. We’ll then give one another a few hours to sit and write something that obliquely incorporates the elements picked. Usually something in the neighbourhood of 500-1000 words. Sometimes these go on to be worked into fully ripe stories, sometimes they sit in the scrap heap awaiting future use.
 
 As a little experiment, I think I’ll try “showing my work,” here, at the risk of depriving the text of a chance to stand on its own. But I’ll do so at the end of the story (or fragment?) so as to at least get out of its way.
 
-# One Lip to Earth and One Lip to Heaven
+## One Lip to Earth and One Lip to Heaven
 
 ![mouth](../img/the%20mouth%20cavity%20--%20the%20cheeks%20have%20been%20slit%20transversely%20and%20the%20tongue%20pulled%20forward.png)
 
@@ -40,9 +40,9 @@ Shalim lobbed the Great White empty to the heap of clothes in the corner and sto
 
 The dishes were piled high in the sink, with an unfinished bowl of cereal wedged right underneath the spout. She loosened a plate from beneath the bowl and ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
 
-# Obstructions/Elements
+## Obstacles
 
-## The Word ‘Jerusalem’
+### The Word ‘Jerusalem’
 
 A plausible etymology of the city’s name, as [Wikipedia has it](https://en.wikipedia.org/wiki/Jerusalem#Etymology), traces it back to the phrase,
 
@@ -68,7 +68,7 @@ Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en
 
 This gave me a place to start.
 
-## The Word ‘trepidation’
+### The Word ‘trepidation’
 
 I found this truly beautiful *Webster’s Twentieth Century Dictionary (Unabridged)* a week before Christmas, on the shelves at *Value Village*. There’s something I love about leafing through a vast paper dictionary, with its tiny lithographed diagrams, its onion skin paper, all its happy accidents... So much nicer than digital. It just has a warmer sound.
 
@@ -87,7 +87,7 @@ The fourth, above all, caught my attention, and dovetailed nicely with the vorac
 
 ![trepidation-spheres.png](../img/trepidation-spheres.png)
 
-## The Six of Swords
+### The Six of Swords
 
 Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the version Emily and I used for the cue:
 
