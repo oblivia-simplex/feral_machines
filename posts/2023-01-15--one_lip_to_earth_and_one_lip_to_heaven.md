@@ -6,12 +6,12 @@ tags:
 - obstruction
 - fragment
 date: 2023-01-15
-abstract: "Either a very short story or a fragment *of* a slightly longer short story. I'm undecided. Ugaritic themes."
+abstract: "Either a very short story or a fragment of a slightly longer short story. I'm undecided. Ugaritic themes."
 notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Monday, January 16th 2023, 3:14:55 am"
+date_modified: "Monday, January 16th 2023, 3:17:41 am"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
