@@ -38,7 +38,7 @@ He’d barely’ve gotten wet.
 
 Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress that had deflated overnight and put her head between her knees. Her bowels squealed and squirmed at the pressure. She sprawled savasana and counted her breaths. She got back to her feet, moving slowly with a hand on the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the clothes heaped in the corner. Patches of carpet were wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick so she took it and made her way to the kitchen.
 
-The dishes were piled high in the sink, with an unfinished bowl of cereal wedged right underneath the spout. She loosened a plate from beneath the bowl and ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
+The dishes were piled high in the sink, with an unfinished bowl of cereal wedged right underneath the spout. She loosened a plate from beneath the bowl with the bottle tucked under her arm. Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
 
 ## Obstacles
 
