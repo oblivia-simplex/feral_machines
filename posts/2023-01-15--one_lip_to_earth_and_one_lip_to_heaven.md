@@ -57,10 +57,10 @@ Digging a little deeper, what caught my attention was the collective description
 It was this verse that caught me:
 
 > **One lip to the earth,  
->   the other lip to the heavens,  
+>     the other lip to the heavens,  
 > Into their mouths enter  
->   the birds of the heavens  
->   and the fish in the sea.**
+>     the birds of the heavens  
+>     and the fish in the sea.**
 
 Here’s an ivory panel showing what appears to be the goddess Asherah nursing the voracious twins, Shalim and Shahar.
 
@@ -101,4 +101,4 @@ Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the ve
 >
 > Usually this card does not signify death, though it can indicate mourning; nor does it show transformation, in the sense of Death in the Major Arcana. Rather it depicts a quiet passage through a difficult time. Waite says, ‘The freight is light’; and Eden Gray writes, ‘The swords do not weigh down the boat’. [...] On a simple level it means functioning in some difficult situation without attacking the problems. It can refer to an immediate problem or a situation that has gone on for years. Looking deeper we see the image of a long sorrow -- mourning is an example, but not the only one -- which a person has felt for so long that it no longer gives pain, but has become part of life.
 
-The card also brings to mind another image: an insect, on its back, on the surface of the water, with its six legs up in the air -- though this connection only became explicit *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
+The card brings to mind another image: an insect, on its back, on the surface of the water, with its six legs up in the air -- though this connection only became explicit *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
