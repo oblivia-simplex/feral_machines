@@ -52,10 +52,10 @@ A plausible etymology of the city’s name, as [Wikipedia has it](https://en.wik
 
 Digging a little deeper, what caught my attention was the collective description of the siblings Shalim, the god of dusk, and Shahar, the god of dawn, as “the voracious gods of day”, in Ugaritic texts. Dennis Pardee presents [an anotated translation](https://new2torah.com/PDF/Dawn%20and%20Dusk%20-%20The%20Birth%20of%20the%20Gracious%20and%20Beautiful%20Gods.pdf) of one of these texts in [The Context of Scripture: Canonical Compositions from the Biblical World](https://www.amazon.com/Context-Scripture-Canonical-Compositions-Biblical/dp/9004106189), which contains the striking verse
 
-> **One lip to the earth,
->   the other lip to the heavens,
-> Into their mouths enter
->   the birds of the heavens
+> **One lip to the earth,  
+>   the other lip to the heavens,  
+> Into their mouths enter  
+>   the birds of the heavens  
 >   and the fish in the sea.**
 
 ![The Second Birth Narrative of Shalim and Shahar.png](../img/The%20Second%20Birth%20Narrative%20of%20Shalim%20and%20Shahar.png)
