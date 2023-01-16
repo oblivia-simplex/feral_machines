@@ -60,9 +60,13 @@ Digging a little deeper, what caught my attention was the collective description
 
 ![The Second Birth Narrative of Shalim and Shahar.png](../img/The%20Second%20Birth%20Narrative%20of%20Shalim%20and%20Shahar.png)
 
-This gave me my starting point.
+Here’s an ivory panel showing what appears to be the goddess Asherah nursing the voracious twins, Shalim and Shahar.
 
-![asherah-nursing-shalim-and-shahar.jpg](../img/asherah-nursing-shalim-and-shahar.jpg)
+![Asherah nursing Shalim and Shahar.png](../img/Asherah%20nursing%20Shalim%20and%20Shahar.png)
+
+Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en ivoire de la cour III du palais royal d'Ougarit,”](https://sci-hub.ru/10.2307/4199378) in the journal *Syria*, tome 78 (2001), p. 29. 
+
+This gave me a place to start.
 
 ## The Word ‘trepidation’
 
