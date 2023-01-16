@@ -11,7 +11,7 @@ notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Monday, January 16th 2023, 4:12:26 pm"
+date_modified: "Monday, January 16th 2023, 4:15:00 pm"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
@@ -58,7 +58,7 @@ Digging a little deeper, what caught my attention was the collective description
 >   the other lip to the heavens,
 > Into their mouths enter
 >   the birds of the heavens
->   and the fish in the sea.
+>   and the fish in the sea.**
 
 ![The Second Birth Narrative of Shalim and Shahar.png](../img/The%20Second%20Birth%20Narrative%20of%20Shalim%20and%20Shahar.png)
 
@@ -68,7 +68,7 @@ This gave me my starting point.
 
 I found this truly beautiful *Webster’s Twentieth Century Dictionary (Unabridged)* a week before Christmas, on the shelves at *Value Village*. There’s something I really love about leafing through a vast paper dictionary. It just has a warmer sound than digital.
 
-![Lucca eating a dictionary.png](Lucca%20eating%20a%20dictionary.png)
+![Lucca eating a dictionary.png](../img/Lucca%20eating%20a%20dictionary.png)
 
 This dictionary has the following entry for *trepidation*:
 
