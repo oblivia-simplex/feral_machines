@@ -2,7 +2,6 @@
 title: "'One Lip to Earth and One Lip to Heaven' and notes on composition"
 tags: 
 - fiction
-- draft
 - obstruction
 - exercise
 date: 2023-01-15
