@@ -10,7 +10,7 @@ notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Monday, January 16th 2023, 4:15:00 pm"
+date_modified: "Tuesday, January 17th 2023, 3:25:31 am"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
@@ -69,7 +69,7 @@ Here’s an ivory panel showing what appears to be the goddess Asherah nursing t
 
 ![Asherah nursing Shalim and Shahar.png](../img/Asherah%20nursing%20Shalim%20and%20Shahar.png)
 
-Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en ivoire de la cour III du palais royal d'Ougarit,”](https://sci-hub.ru/10.2307/4199378) in the journal *Syria*, tome 78 (2001), p. 29. 
+Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en ivoire de la cour III du palais royal d'Ougarit,”](https://sci-hub.ru/10.2307/4199378) in the journal *Syria*, tome 78 (2001), p. 29.
 
 This gave me a place to start.
 
@@ -104,4 +104,4 @@ Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the ve
 >
 > Usually this card does not signify death, though it can indicate mourning; nor does it show transformation, in the sense of Death in the Major Arcana. Rather it depicts a quiet passage through a difficult time. Waite says, ‘The freight is light’; and Eden Gray writes, ‘The swords do not weigh down the boat’. [...] On a simple level it means functioning in some difficult situation without attacking the problems. It can refer to an immediate problem or a situation that has gone on for years. Looking deeper we see the image of a long sorrow -- mourning is an example, but not the only one -- which a person has felt for so long that it no longer gives pain, but has become part of life.
 
-The card brings to mind another image: an insect, on its back, on the surface of the water, with its six legs up in the air -- though this connection only became explicit *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
+The card brings to mind another image: an insect, on its back, on the surface of the water, or possibly milk, with its six legs up in the air -- though this connection only became explicit *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
