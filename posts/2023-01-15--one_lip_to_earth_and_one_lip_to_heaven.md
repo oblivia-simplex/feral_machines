@@ -25,6 +25,8 @@ Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/fiction) and I h
 
 As a little experiment, I’m going to try “showing my work” here, at the risk of cheating the text of a chance to stand on its own two feet. But I’ll do so at the end of the story (or fragment?) so as to at least get out of its way.
 
+---
+
 ## One Lip to Earth and One Lip to Heaven
 
 ![mouth](../img/the%20mouth%20cavity%20--%20the%20cheeks%20have%20been%20slit%20transversely%20and%20the%20tongue%20pulled%20forward.png)
@@ -38,6 +40,8 @@ He’d barely’ve gotten wet.
 Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated in the night, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She got back to her feet, slowly, this time, with one hand on the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the clothes heaped in the corner. Patches of carpet were wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick so she took it and made her way to the kitchen.
 
 The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She put the bottle in an empty pot on the stove and with both hands loosened a plate from the stack, just underneath the bowl. Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
+
+---
 
 ## Obstacles
 
