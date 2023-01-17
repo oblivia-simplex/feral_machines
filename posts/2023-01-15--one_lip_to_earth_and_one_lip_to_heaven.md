@@ -21,7 +21,7 @@ vibe_match:
 
 ## Preface
 
-Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/) and I have been prompting one another to write by choosing a handful of more or less random, more or less arbitrary constraints, obstacles, or elements -- most often by grabbing a book off the shelf and flipping to a word with our eyes closed, or by pulling a card from a tarot deck, or something along those lines. We’ll then give one another a few hours to sit and write something that obliquely incorporates the elements picked. Usually something in the neighbourhood of 500-1000 words. Sometimes these ripen into finished short stories, sometimes they sit on the compost heap.
+Over the pandemic, [Emily McMehen](https://www.emilymcmehen.com/fiction) and I have been prompting one another to write by choosing a handful of more or less random, more or less arbitrary constraints, obstacles, or elements -- most often by grabbing a book off the shelf and flipping to a word with our eyes closed, or by pulling a card from a tarot deck, or something along those lines. We’ll then give one another a few hours to sit and write something that obliquely incorporates the elements picked. Usually something in the neighbourhood of 500-1000 words. Sometimes these ripen into finished short stories, sometimes they sit on the compost heap.
 
 As a little experiment, I’m going to try “showing my work” here, at the risk of cheating the text of a chance to stand on its own two feet. But I’ll do so at the end of the story (or fragment?) so as to at least get out of its way.
 
