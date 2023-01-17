@@ -10,7 +10,7 @@ notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Tuesday, January 17th 2023, 3:25:31 am"
+date_modified: "Tuesday, January 17th 2023, 11:52:16 am"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
@@ -37,7 +37,7 @@ But there was less than a sip in there left.
 
 He’d barely’ve gotten wet.
 
-Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated somewhat overnight, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She returned to her feet, slowly, this time, with one hand against the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the heap in the opposite corner. Patches of carpet were still wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick. She picked the bottle up by the neck and headed to the narrow kitchen.
+Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated somewhat overnight, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She returned to her feet, slowly, this time, with a hand against the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the heap in the opposite corner. Patches of carpet were still wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick. She picked the bottle up by the neck and headed to the narrow kitchen.
 
 The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She jimmied loose a plate from the stack with the bottle between her knees. <!-- this sentence needs work somehow, try tomorrow --> Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
 
