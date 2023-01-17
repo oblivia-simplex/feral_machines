@@ -10,7 +10,7 @@ notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Monday, January 16th 2023, 4:15:00 pm"
+date_modified: "Tuesday, January 17th 2023, 11:52:16 am"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
@@ -37,9 +37,9 @@ But there was less than a sip in there left.
 
 He’d barely’ve gotten wet.
 
-Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated in the night, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She got back to her feet, slowly, this time, with one hand on the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the heap in the opposite corner. Patches of carpet were wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick so she took it and made her way to the kitchen.
+Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated somewhat overnight, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She returned to her feet, slowly, this time, with a hand against the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the heap in the opposite corner. Patches of carpet were still wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick. She picked the bottle up by the neck and headed to the narrow kitchen.
 
-The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She put the bottle in an empty pot on the stove and with both hands loosened a plate from the stack, just underneath the bowl. Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
+The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She jimmied loose a plate from the stack with the bottle between her knees. <!-- this sentence needs work somehow, try tomorrow --> Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
 
 ---
 
@@ -69,7 +69,7 @@ Here’s an ivory panel showing what appears to be the goddess Asherah nursing t
 
 ![Asherah nursing Shalim and Shahar.png](../img/Asherah%20nursing%20Shalim%20and%20Shahar.png)
 
-Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en ivoire de la cour III du palais royal d'Ougarit,”](https://sci-hub.ru/10.2307/4199378) in the journal *Syria*, tome 78 (2001), p. 29. 
+Image taken from Jacqueline Gachet-Bizollon’s article [“Le panneau de lit en ivoire de la cour III du palais royal d'Ougarit,”](https://sci-hub.ru/10.2307/4199378) in the journal *Syria*, tome 78 (2001), p. 29.
 
 This gave me a place to start.
 
@@ -104,4 +104,4 @@ Here’s Pamela Smith’s illustration from the classic Smith-Waite deck, the ve
 >
 > Usually this card does not signify death, though it can indicate mourning; nor does it show transformation, in the sense of Death in the Major Arcana. Rather it depicts a quiet passage through a difficult time. Waite says, ‘The freight is light’; and Eden Gray writes, ‘The swords do not weigh down the boat’. [...] On a simple level it means functioning in some difficult situation without attacking the problems. It can refer to an immediate problem or a situation that has gone on for years. Looking deeper we see the image of a long sorrow -- mourning is an example, but not the only one -- which a person has felt for so long that it no longer gives pain, but has become part of life.
 
-The card brings to mind another image: an insect, on its back, on the surface of the water, with its six legs up in the air -- though this connection only became explicit *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
+The card brings to mind another image: an insect, on its back, on the surface of the water, or possibly milk, with its six legs up in the air -- though this connection only jumped out at me *after* I’d written the story. A few minutes ago, in fact. While writing I was just keeping the card’s vibe in mind.
