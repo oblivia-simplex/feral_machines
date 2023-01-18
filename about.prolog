@@ -13,7 +13,7 @@ title('Feral Machines').
 admin('Olivia Lucca Fraser').
 domain('feralmachin.es').
 email('feral.machines@bastardi.net').
-abstract('yeggogological meditations').
+abstract('yeggogological meditations<a rel="me" href="https://zirk.us/@obliviasimplex"></a>').
 %abstract('what are the roots that clutch, what branches grow?').
 repo('https://github.com/oblivia-simplex/feral_machines').
 port(9697). 
