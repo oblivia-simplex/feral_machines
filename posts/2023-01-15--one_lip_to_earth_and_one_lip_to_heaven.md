@@ -1,5 +1,5 @@
 ---
-title: "'One Lip to Earth and One Lip to Heaven' and notes on composition"
+title: "'One Lip to Earth and One Lip to Heaven' and notes on composition exercises"
 tags: 
 - fiction
 - obstruction
