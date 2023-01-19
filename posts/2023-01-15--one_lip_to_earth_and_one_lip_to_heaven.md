@@ -1,5 +1,7 @@
 ---
 title: "'One Lip to Earth and One Lip to Heaven' and notes on composition exercises"
+aliases:
+  - One Lip to Earth and One Lip to Heaven
 tags: 
 - fiction
 - exercise
@@ -9,7 +11,7 @@ notes:
 - "[[obstructions with emily 2023-01-13]]"
 author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
-date_modified: "Thursday, January 19th 2023, 1:46:24 am"
+date_modified: "Thursday, January 19th 2023, 1:43:21 pm"
 vibe_match:
 - "[[I want to pull the sidewalk]]"
 - "[[the_helium_quality_of_her_soul]]"
@@ -30,7 +32,7 @@ As a little experiment, I’m going to try “showing my work” here, at the ri
 
 ![mouth](../img/the%20mouth%20cavity%20--%20the%20cheeks%20have%20been%20slit%20transversely%20and%20the%20tongue%20pulled%20forward.png)
 
-To a smaller than average man -- stretched out in the crease of her tongue with one heel hooked over his opposite ankle, leaning back, palms flat, idly massaging the shag of papillae with his fingers running between them -- to him, the view would be beautiful. The rusty bluffs of enamel above -- he wouldn’t see the lower row, on account of the bulk of the tongue -- would part directly before him. And being the only soul sitting right there, it would feel -- he’d know it’s not so, but it’d *feel* -- like they’d parted solely for him, for him to see what he’d see: one lip eclipsing the earth below, the other wrapped around heaven above in its trembling emerald firmanent. The vapours would sting his eyes and so he’d blink them hard and fast. They’d water a bit, which would help. Light would play on the cosmic glass and warp as the universe tilted. He’d have to shift his weight back to his palms, and clench fistfuls of taste buds to keep from slipping. But not because he’s afraid to die. He would be afraid, of course, like anyone would be, but he’d know where he is and why. He’d know what’s going to happen. He’d’ve found his steel. He’d breathe in through his nose, and out through his mouth and he might be getting a little lightheaded but his sinuses would be very clear. He’d think of the day his son had brought him to a Turkish bath in the city, and the bowl of eucalyptus oil that wobbled the light on the tiles. His thoughts would clear. He’d breathe in through his nose and out through his mouth. It wouldn’t be that he wasn’t afraid. He’d just want to meet it calm and alert, and not scurry away from the beauty of the thing like he had somewhere better to be. As the slope of heaven grew steeper he would brace himself, pause, let his muscles go slack, and allow his body to yield. Without closing his eyes he’d imagine -- or rather anticipate propioceptively -- the moulting away of his skin and the cage of his chest hatching open. When the pale river poured in at last he’d surrender without hesitation.
+To a smaller than average man -- stretched out in the crease of her tongue with one heel hooked over his opposite ankle, leaning back, palms flat, idly massaging the shag of papillae with his fingers running between them -- to him, the view would be beautiful. The rusty bluffs of enamel above -- he wouldn’t see the lower row, on account of the bulk of the tongue -- would part directly before him. And being the only soul sitting right there, it would feel -- he’d know it’s not so, but it’d *feel* -- like they’d parted solely for him, for him to see what he’d see: one lip eclipsing the earth below, the other wrapped around heaven above in its trembling emerald firmament. The vapours would sting his eyes and so he’d blink them hard and fast. They’d water a bit, which would help. Light would play on the cosmic glass and warp as the universe tilted. He’d have to shift his weight back to his palms, and clench fistfuls of taste buds to keep from slipping. But not because he’s afraid to die. He would be afraid, of course, like anyone would be, but he’d know where he is and why. He’d know what’s going to happen. He’d’ve found his steel. He’d breathe in through his nose, and out through his mouth and he might be getting a little lightheaded but his sinuses would be very clear. He’d think of the day his son had brought him to a Turkish bath in the city, and the bowl of eucalyptus oil that wobbled the light on the tiles. His thoughts would clear. He’d breathe in through his nose and out through his mouth. It wouldn’t be that he wasn’t afraid. He’d just want to meet it calm and alert, and not scurry away from the beauty of the thing like he had somewhere better to be. As the slope of heaven grew steeper he would brace himself, pause, let his muscles go slack, and allow his body to yield. Without closing his eyes he’d imagine -- or rather anticipate propioceptively -- the moulting away of his skin and the cage of his chest hatching open. When the pale river poured in at last he’d surrender without hesitation.
 
 But there was less than a sip in there left.
 
@@ -38,7 +40,7 @@ He’d barely’ve gotten wet.
 
 Shalim lobbed the Great White empty onto the heap of coats in the corner and stood. This proved overambitious. She sat back down on the air mattress, which had deflated somewhat overnight, and rested her head between her knees. Her bowels squealed and squirmed. She sprawled savasana and counted her breaths. She returned to her feet, slowly, this time, with a hand against the wall. She squinted. The sun was at its winter peak and cut through the glass at eye level. She stumbled across the living room to the heap in the opposite corner. Patches of carpet were still wet. A CD case crunched underfoot. She patted down the faux fur coat on top till she found a pair of sunglasses, Mike’s. They gave him a feminine, buglike look. She put them on. They helped. <!-- boil behind her ear pressed by arms of sunglasses --> The green glass bottle with the shark on the label had rolled to the side of the pile. Her throat was parched and her tongue felt thick. She picked the bottle up by the neck and headed to the narrow kitchen.
 
-The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She gripped the bottle between her thighs and with both hands jimmied a plate from the stack. <!-- this sentence needs work somehow, try tomorrow --> Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its miniscule legs.
+The dishes were piled high in the sink, with an unfinished bowl of cereal wedged under the spout. She gripped the bottle between her thighs and with both hands jimmied a plate from the stack. <!-- this sentence needs work somehow, try tomorrow --> Ceramic ground on ceramic. A white-winged moth on its back in the milk flailed its minuscule legs.
 
 ---
 
