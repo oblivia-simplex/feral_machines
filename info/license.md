@@ -6,6 +6,12 @@ abstract: "The GNU GPL version 3, in its entirety."
 tags: [info, license, gnu]
 ---
 
+# License for the P'log Blogging Software
+
+[P'log](https://github.com/oblivia-simplex/plog), the blogging software this site runs on, falls under the GNU General Public License. Details below. 
+
+The content on the blog does not.
+
 ### GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
