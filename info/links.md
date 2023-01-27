@@ -15,6 +15,7 @@ abstract: Links and things.
 * [Milner on Music](https://rozwords.substack.com/) -- Roz Milner
 * [DC's](https://denniscooperblog.com/) -- Dennis Cooper
 * [Pseudopodium](https://www.pseudopodium.org/) -- Ray Davis
+* [C.E. Ephemera](https://christieevelyn.substack.com/) -- Christie Evelyn
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
