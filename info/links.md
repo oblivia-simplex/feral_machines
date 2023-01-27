@@ -56,7 +56,9 @@ abstract: Links and things.
 
 * [Creating Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html/index.html)
 
-# Miscellany
+# Games
 
+* [Accelerate](https://xlr8.zone)
+* [Spy Intrigue](https://furkleindustries-homepage.s3.amazonaws.com/spy-intrigue/index.html)
 * [Legend of the Red Dragon](/static/lord.html)
 
