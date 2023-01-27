@@ -10,7 +10,7 @@ abstract: Links and things.
 ## Currently Active
 
 * [The World's Greatest Writer](http://theworldsgreatestwriter.com/) -- June Martin
-* [Play Now My Lord](https://www.tumblr.com/play-now-my-lord) -- Frog Kosaric
+* [Play Now My Lord](https://play-now-my-lord.tumblr.com/) -- Frog Kosaric
 * [Hatfinisher](https://hatfinisher.github.io/) -- Jackie Ess
 * [Milner on Music](https://rozwords.substack.com/) -- Roz Milner
 * [DC's](https://denniscooperblog.com/) -- Dennis Cooper
