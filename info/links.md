@@ -5,10 +5,13 @@ date: 2019-02-02
 abstract: Links and things.
 ---
 
-# Fellow Blogs 
+# Fellow Blogs/Homepages
 
 ## Currently Active
 
+* [The World's Greatest Writer](http://theworldsgreatestwriter.com/) -- June Martin
+* [Play Now My Lord](https://www.tumblr.com/play-now-my-lord) -- Frog Kosaric
+* [Hatfinisher](https://hatfinisher.github.io/) -- Jackie Ess
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [Human Iterations](http://humaniterations.net) -- William Gillis
@@ -28,18 +31,14 @@ abstract: Links and things.
 
 ## Dormant
 
-* [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 * [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
   its [second incarnation](http://k-punk.org) -- Mark Fisher
-* [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
-* [Semiotechnic Field Notes](http://field-notes.semiotechnic.net) -- Semiotechnician
 * [poetix](http://codepoetics.com/octoblog) -- Dominic Fox
 * [trannypunk](http://www.trannypunk.com/) -- Sybil Lamb
 
 # Libraries, Magazine, Archives, etc.
 
-* [Aaaarg](http://aaaarg.fail/)
 * [Concept and Form: The Cahiers pour l'Analyse and Contemporary French Thought](http://cahiers.kingston.ac.uk/)
 * [Gauss PDF](http://www.gauss-pdf.com/)
 * [Glass Bead](https://glass-bead.org)
@@ -47,11 +46,9 @@ abstract: Links and things.
 * [Memory of the World](https://library.memoryoftheworld.org)
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
 * [Phrack](http://www.phrack.org/)
-* [Public Seminar](https://publicseminar.org/) -- McKenzie Wark &co
 * [Robert Kowalski's Homepage](https://www.doc.ic.ac.uk/~rak/)
 * [The International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)](https://www.alchemistowl.org/pocorgtfo/)
 * [Uberty](http://uberty.org/)
-* [VXHeaven](http://83.133.184.251/virensimulation.org/index.html)
 * [telnet BBS Guide](https://www.telnetbbsguide.com/)
 * [www.genetic-programming.org](http://www.genetic-programming.org)
 
