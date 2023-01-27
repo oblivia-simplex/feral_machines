@@ -5,7 +5,7 @@ date: 2019-02-02
 abstract: Links and things.
 ---
 
-# Fellow Blogs/Homepages
+# Blogs/Homepages
 
 ## Currently Active
 
