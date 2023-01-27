@@ -45,23 +45,24 @@ abstract: Links and things.
 * [Gauss PDF](http://www.gauss-pdf.com/)
 * [Black Telephone](https://www.clashbooks.com/black-telephone-magazine)
 * [Cream Scene Carnival](https://creamscenecarnival.com/)
+* [Urbanomic](https://www.urbanomic.com/)
+* [Glass Bead](https://glass-bead.org)
 
 # Hacking Mags, Tech Stuff, etc.
 
 * [Phrack](http://www.phrack.org/)
 * [The International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)](https://www.alchemistowl.org/pocorgtfo/)
+* [www.genetic-programming.org](http://www.genetic-programming.org)
 
 # Libraries, Magazine, Archives, etc.
 
 * [Concept and Form: The Cahiers pour l'Analyse and Contemporary French Thought](http://cahiers.kingston.ac.uk/)
-* [Glass Bead](https://glass-bead.org)
 * [Jean-Yves Girard's Homepage](http://girard.perso.math.cnrs.fr/Accueil.html)
 * [Memory of the World](https://library.memoryoftheworld.org)
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
 * [Robert Kowalski's Homepage](https://www.doc.ic.ac.uk/~rak/)
 * [Uberty](http://uberty.org/)
 * [telnet BBS Guide](https://www.telnetbbsguide.com/)
-* [www.genetic-programming.org](http://www.genetic-programming.org)
 
 # Tutorials
 
