@@ -17,5 +17,6 @@ abstract('yeggogological meditations').
 %abstract('what are the roots that clutch, what branches grow?').
 repo('https://github.com/oblivia-simplex/feral_machines').
 port(9697). 
-bind(localhost).
+%bind(localhost).
+bind('0.0.0.0').
 timezone(4).
