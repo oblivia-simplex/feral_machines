@@ -14,6 +14,7 @@ abstract: Links and things.
 * [Hatfinisher](https://hatfinisher.github.io/) -- Jackie Ess
 * [Milner on Music](https://rozwords.substack.com/) -- Roz Milner
 * [DC's](https://denniscooperblog.com/) -- Dennis Cooper
+* [Mommy's Womb](https://mommyswomb.substack.com/) -- Natali Tautou
 * [Pseudopodium](https://www.pseudopodium.org/) -- Ray Davis
 * [C.E. Ephemera](https://christieevelyn.substack.com/) -- Christie Evelyn
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
@@ -38,16 +39,28 @@ abstract: Links and things.
 * [poetix](http://codepoetics.com/octoblog) -- Dominic Fox
 * [trannypunk](http://www.trannypunk.com/) -- Sybil Lamb
 
-# Lit Mags, Presses, etc.
+# Lit Stuff
+
+## Mags
 
 * [A New Session](https://anewsession.com/) 
-* [LittlePuss](https://www.littlepuss.net/)
 * [Neutral Spaces](https://neutralspaces.co/) 
 * [Gauss PDF](http://www.gauss-pdf.com/)
 * [Black Telephone](https://www.clashbooks.com/black-telephone-magazine)
 * [Cream Scene Carnival](https://creamscenecarnival.com/)
-* [Urbanomic](https://www.urbanomic.com/)
 * [Glass Bead](https://glass-bead.org)
+
+## Presses
+
+* [LittlePuss](https://www.littlepuss.net/)
+* [Urbanomic](https://www.urbanomic.com/)
+* [Clash Books](https://www.clashbooks.com/)
+
+## Itch Shops
+
+* [Alice Stoehr](https://astoehr.itch.io/)
+* [Natali Tautou](https://www.clashbooks.com/)
+* [Frog Industrial Concern](https://frogindustrialconcern.itch.io/)
 
 # Hacking Mags, Tech Stuff, etc.
 
