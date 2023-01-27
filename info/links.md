@@ -56,7 +56,7 @@ abstract: Links and things.
 * [Urbanomic](https://www.urbanomic.com/)
 * [Clash Books](https://www.clashbooks.com/)
 
-## Itch Shops
+## Self-Pub Shops
 
 * [Alice Stoehr](https://astoehr.itch.io/)
 * [Natali Tautou](https://www.clashbooks.com/)
