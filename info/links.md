@@ -39,8 +39,8 @@ abstract: Links and things.
 
 # Lit Mags, Presses, etc.
 
-* [A New Session](https://anewsession.com/) -- Ed. Cara Esten & Lo Ferris
-* [LittlePuss](https://www.littlepuss.net/) -- Ed. Cat Fitzpatrick & Casey Plett
+* [A New Session](https://anewsession.com/) 
+* [LittlePuss](https://www.littlepuss.net/)
 * [Neutral Spaces](https://neutralspaces.co/) 
 * [Gauss PDF](http://www.gauss-pdf.com/)
 * [Black Telephone](https://www.clashbooks.com/black-telephone-magazine)
