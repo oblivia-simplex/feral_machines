@@ -78,7 +78,14 @@ abstract: Links and things.
 * [Uberty](http://uberty.org/)
 * [telnet BBS Guide](https://www.telnetbbsguide.com/)
 
-# Tutorials
+
+# Typography Resources
+
+* [Typewolf: Best Typography Resources](https://www.typewolf.com/resources)
+* [The Elements of Typographic Style](https://readings.design/PDF/the_elements_of_typographic_style.pdf) by Robert Bringhurst
+
+
+# P'log Developer Resources
 
 * [Creating Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html/index.html)
 
