@@ -945,9 +945,9 @@ Witness Matisse — just a few lines, but all the right ones. Witness Durer — 
 
 When “one is in the I-mode of behavior,” one must always be “extremely sensitive” about the ‘I’ “somehow elevating itself over the circumstance.” ==Your ‘I’ must be adorable, greatly tactful, avoiding any taint of complaint or self-aggrandizement, and must be extremely forgiving.==
 
-```
+%%
 I think I might do well to revise the peaches story with this in mind. It's too contemptous of Javier -- the portrayal of him is almost farcical.
-```
+%%
 
 ==“Never explain, never complain.”==
 
