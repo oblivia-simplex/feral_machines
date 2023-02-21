@@ -2,12 +2,14 @@
 tags: 
 - craft
 - gordon_lish
+title: "Tetman Callis's Notes from Gordon Lish's Writing Seminar in the Fall of 1990"
 author: Tetman Callis and Gordon Lish
 date_created: "Wednesday, January 11th 2023, 11:59:15 am"
-date_modified: "Monday, February 20th 2023, 8:28:33 pm"
+date_modified: "Monday, February 20th 2023, 9:07:50 pm"
+aliases: [Tetman Callis’s Notes from Gordon Lish’s Writing Seminar in the Fall of 1990, The Gordon Lish Notes]
 ---
 
-# The Gordon Lish Notes
+# Tetman Callis’s Notes From Gordon Lish’s Writing Seminar in the Fall of 1990
 
 As recorded by [Tetman Callis](https://web.archive.org/web/20120306211439/http://www.tetmancallis.com/).
 
