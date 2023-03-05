@@ -50,6 +50,10 @@ abstract: Links and things.
 * [Cream Scene Carnival](https://creamscenecarnival.com/)
 * [Glass Bead](https://glass-bead.org)
 
+## Webcomics
+
+* [What Happens Next](https://whathappensnext.webcomic.ws/)
+
 ## Presses
 
 * [LittlePuss](https://www.littlepuss.net/)
