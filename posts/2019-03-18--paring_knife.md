@@ -1,6 +1,6 @@
 ---
 title: Paring Knife
-author: Molly Saltzman
+author: Olivia Lucca Fraser
 date: 2019-03-18
 tags: [poetry]
 abstract: A poem I write a few years back -- I think it was in 2014.

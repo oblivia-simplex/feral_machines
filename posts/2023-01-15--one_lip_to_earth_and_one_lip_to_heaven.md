@@ -9,7 +9,7 @@ date: 2023-01-15
 abstract: "Either a very short story or a fragment of a slightly longer one -- I'm undecided -- accompanied by notes on the composition exercise it came from. Obstacles in play: 'trepidation', 'Jerusalem', Six of Swords (Waite/Smith)."
 notes:
 - "[[obstructions with emily 2023-01-13]]"
-author: Molly Saltzman
+author: Olivia Lucca Fraser
 date_created: "Friday, January 13th 2023, 8:54:09 pm"
 date_modified: "Thursday, February 9th 2023, 1:07:47 am"
 vibe_match:
