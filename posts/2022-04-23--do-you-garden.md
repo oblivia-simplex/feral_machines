@@ -19,6 +19,15 @@ date_modified: "Sunday, May 8th 2022, 10:05:01 am"
 modified: 2022-05-08
 ---
 
+## Note
+
+A revised version of this story, which I'm not sure I'm convinced by, can be found in draft form [here](2023-01-18--the_pits.md).
+
+---
+
+## Story
+
+
 As Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against the blistered pad of his thumb, numbed from fishing the peaches from a bowl of molten ice, his thoughts pooled in the familiar hollow the familiar work hollowed out. These mostly had to do with his wife and the fire.
 
 Once the blade had bit into the pit he tilted and rolled it slowly about til the incision connected full circle. Sheila. With a little twist he split open the peach. He couldn’t bear to be near her these days. He scooped up the slippery halves of it, at a loss to say what was left to be tried though all of it still felt so strange to him, and the peach slices leapt like a pair of koi into the mouth of the jar. His thoughts revolved around the fire, around his wife and the fire, now and then eclipsed by thoughts of the nurse, Javier. He gathered the pits in an ice-cream pail, as a favour for Javier.
