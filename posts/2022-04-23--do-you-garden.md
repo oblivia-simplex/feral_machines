@@ -25,7 +25,7 @@ A revised version of this story, which I'm not sure I'm convinced by, can be fou
 
 ---
 
-## Story
+## Do You Garden?
 
 
 As Ashley massaged the fragile skin from the flesh of a boiled peach, the last one of one of the day’s last batches, and braced the paring knife’s blunt edge against the blistered pad of his thumb, numbed from fishing the peaches from a bowl of molten ice, his thoughts pooled in the familiar hollow the familiar work hollowed out. These mostly had to do with his wife and the fire.
