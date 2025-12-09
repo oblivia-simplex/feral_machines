@@ -15,7 +15,7 @@ abstract: "The groove is mysterious and important."
 ---
 
 
-# In Praise of the SP-404SX
+# Falling in Love with the SP-404SX
 
 A few weeks ago, I bought a slightly beaten-up SP-404SX in Montreal. I fell in love with the thing. For about two weeks, I stayed up late into the [weird part of the night](https://louiscole.bandcamp.com/track/weird-part-of-the-night), sometimes till dawn, sitting on my bed with my headphones on, by the light of a lamp and some Christmas lights. The process of making music with this thing was so utterly absorbing. There's no real screen on the device, beyond a three-digit red LED display, like you'd find on an old clock radio. (There's also no clock in sight, which accounts, in part, for the very long nights.) There's a sequencer, but no grid to program -- the only way to sequence your samples is by actually playing them, in real time, layer by layer, with optional quantization (which I'd usually do without). This means that the experience of composing a song on the 404 is essentially a matter of iterative performance -- playing, repeating, deleting, and listening to what you've done so far, very, very closely. It forces a heightened form of attentive listening, not entirely unlike the experience of playing in band, its intensely solitary character aside.
 
