@@ -220,8 +220,8 @@ pre {
     background-color: black;
     padding-left: 2em;
     padding-right: 2em;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     color: var(--codecolor);
     counter-reset: line;
     font-weight: bold;
