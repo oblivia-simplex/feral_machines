@@ -10,7 +10,6 @@ tags:
 - sp-404
 - sampling
 - bass
-- draft
 abstract: "The groove is mysterious and important."
 ---
 
@@ -55,7 +54,9 @@ I organized the album into an A-side and a B-side, each about 15 minutes in leng
 
 This wasn't the first song I recorded for the album, but it was the first that kept me up until the actual crack of dawn. It started with the bass line, which I think I came up with a few months ago, noodling around on Wilma (my six string bass -- an Ibanez Gio with flatwounds). Having the bass line as a foundation gave me a steady and organic rhythm to build on, but one that often chafed against the grid, so I kept quantization almost entirely off for this one, using it only to trigger the bass sample at the very beginning of what I think were a series of 16 bar patterns on the sequencer. 
 
+<!--
 I have a perhaps irrational aversion to paperwork, and the thought of formally clearing copyright-protected samples has often felt like a demotivating obstacle standing in the way of making and releasing sample-driven music. Turning this aversion into a kind of enabling constraint has had a liberating effect on the whole process of making beats for me. I decided to restrict myself to what I could find in the public domain, mostly through the graces of the [Internet Archive](https://archive.org), and to music made by friends, who I can talk to, in person, and ask if it's cool if I sample their work. (No sample packs and no stock sounds were used anywhere on this album. I was having too much fun foraging to surrender that pleasure to anyone else.)
+-->
 
 The vocal refrain on this track, "please please please, fill me with grace" (or peace? possibly grease? for a long time I thought it was "please please please, deliver me"... feels like it's best to leave this open) comes from Dan Gallant's vocals "Diego Smelled a Fume", from [the Fantods' first album](https://fantods1.bandcamp.com/album/fantods), circa 2004. Dan's an old friend of mine. Seeing the Fantods play at basement shows and bars around Halifax (thinking in particular of the *&* gallery basement on Agricola Street, and the Bike Shop Cafe and Menz & Mollyz on Gottingen), or hanging out at their jams in Headquarters (an unusually cheap and smokestained apartment in the North End that passed from friend to friend for a couple of decades), all this was formative to me. I hadn't really found my way to making music, myself, at the time, aside from thrashing on an old tenor banjo from time to time, but the Fantods' music was part of air our circle of friends were breathing as artists. Dan and I, along with Gary and Neil Peacock (the drummer and guitarist of the Fantods) and a few other friends -- Gord Goulding, the poet Jen Devlin, Katrina Evans, Phil Godin -- used to sit around making art together in some grimy apartment or another (Headquarters, or Grayskull, they all had names). We had an art zine going for a while, which I still have on my shelf, called *The Necronaut* -- I think you can still find it in the Anchor Zine Library at Radstorm, in Halifax. Good times. But I think I've wandered into the weeds here... My point, I think, is that it's not stretching things too much to say that seeing the Fantods play made me want to be a musician. Felt fitting to kick off the album with some sounds from the 'tods.
 
