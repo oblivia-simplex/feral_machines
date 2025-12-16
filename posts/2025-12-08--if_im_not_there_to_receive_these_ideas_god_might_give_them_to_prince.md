@@ -14,7 +14,7 @@ abstract: "The groove is mysterious and important."
 ---
 
 
-# Falling in Love with the SP-404SX
+# Cooking in the Dark
 
 A few weeks ago, I bought a slightly beaten-up<sup>1</sup> SP-404SX while on a roadtrip to Montreal. I fell in love with the thing. For about two weeks, I stayed up late into the [weird part of the night](https://louiscole.bandcamp.com/track/weird-part-of-the-night), sometimes till dawn, sitting on my bed with my headphones on, by the light of a lamp and some Christmas lights. The process of making music with this thing was so utterly absorbing. There's no real screen on the device, beyond a three-digit red LED display, like you'd find on an old clock radio. (There's also no clock in sight, which accounts, in part, for the very long nights.) There's a sequencer, but no grid to program -- the only way to sequence your samples is by actually playing them, in real time, layer by layer, with optional quantization (which I'd usually do without). This means that the experience of composing a song on the 404 is essentially a matter of iterative performance -- playing, repeating, deleting, and listening to what you've done so far, very, very closely. It forces a heightened form of attentive listening, not entirely unlike the experience of playing in band, its intensely solitary character aside.
 
@@ -215,7 +215,7 @@ The sample that gives this number its title is from [Day of the Dolphin](https:/
 
 Zain comes in on this track, with a synth sample that gives a nice sparkle to the melody. On alternating bars in the first and last verses, we have a twinkling arpeggio from the Arturia Microfreak, to which I added a descending low pass filter sweep on the 404, bending it into a melodic arc.
 
-I was uneasy, at first, about how this song would be heard. I didn't want this juxtaposition of the sacred and the ridiculous to come across as smirking or cynical, or to cast the choir in a condescending light (as they are in fact cast in the original recording, whose master of ceremonies introduces them as an ethnographic curio: you will hear the hymn, he says, "with its quaint minor and all the peculiar turns, just as you would hear it in one of the most *primitive* congregations of the real South"). I wanted Fa to play the role of a redeeming angel, announcing a judgement of universal salvation. I wanted the song to be a celebration of beauty, of music, of a groove mysterious and important. I'm not saying it's not a goofy song, but I am saying it's in earnest.
+I was uneasy, at first, about how this song would be heard. I didn't want this juxtaposition of the sacred and the ridiculous to come across as smirking or cynical, or to cast the choir in a condescending light (as they are in fact cast in the original recording, whose master of ceremonies introduces them as an ethnographic curio: you will hear the hymn, he says, "with its quaint minor and all the peculiar turns, just as you would hear it in one of the most *primitive* congregations of the real South"). I wanted Fa to play the role of a redeeming angel, announcing a judgement of universal salvation. I wanted the song to be a celebration of beauty, of music, of a groove mysterious and important. Goofy as the dog but earnest as Worrell.
 
 ---
 
