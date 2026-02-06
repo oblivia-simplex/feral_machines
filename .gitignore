@@ -3,3 +3,4 @@
 *.swp
 posts/scratch/*
 *.bak
+.DS_Store
