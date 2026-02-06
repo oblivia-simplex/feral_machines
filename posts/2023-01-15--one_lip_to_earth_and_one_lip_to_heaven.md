@@ -22,7 +22,9 @@ vibe_match:
 
 ## Update
 
-This story has since been published in the [Valentine's Day issue of Cream Scene Carnival](https://creamscenecarnival.com/2023/02/17/lip-to-lip/), alongside beautiful artwork by Maresa Axtmann.
+This story has since been published in the [Valentine's Day issue of Cream Scene Carnival](https://creamscenecarnival.com/2023/02/17/lip-to-lip/), alongside beautiful artwork by Maressa Axtmann.
+
+![Maressa Axtmann's Art](../img/maressa_axtmann_one_lip_collage.png)
 
 ## Preface
 
